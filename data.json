@@ -3,7 +3,7 @@
     {
       "uid": "1",
       "subjectName": "English",
-      "chapter_part_1": [
+      "chapter part 1": [
         {
           "uid": "1",
           "chapterName": "English 1",
@@ -11,9 +11,9 @@
           "ans": "my name is Muhammad Adnan",
           "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
           "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
+        }
       ],
-      "chapter_part_2": [
+      "chapter part 2": [
         {
           "chapterName": "English 2",
           "question": "What is your name",
@@ -22,7 +22,7 @@
           "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ],
-      "chapter_part_3": [
+      "chapter part 3": [
         {
           "chapterName": "English 3",
           "question": "What is your name",
@@ -37,7 +37,7 @@
     {
       "uid": "2",
       "subjectName": "Physics",
-      "chapter_part_1": [
+      "chapter part 1": [
         {
           "chapterName": "English 1",
           "question": "What is your name",
@@ -46,7 +46,7 @@
           "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ],
-      "chapter_part_2": [
+      "chapter part 2": [
         {
           "chapterName": "English 2",
           "question": "What is your name",
@@ -55,7 +55,7 @@
           "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
       ],
-      "chapter_part_3": [
+      "chapter part 3": [
         {
           "chapterName": "English 3",
           "question": "What is your name",
