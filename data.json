@@ -1,43 +1,18 @@
-[
-  {
-    "uid": "1",
-    "subjectId": "math101",
-    "subjectName": "English",
-    "subjectParts": "Part A",
-    "ans": "42",
-    "chapterName": "Algebra",
-    "chapterPart": "1",
-    "question": "What is x if 2x = 84?",
-    "chapterId": "ch01",
-    "youtubeVideoPath": "https://youtu.be/example",
-    "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "uid": "2",
-    "subjectId": "Urdu",
-    "subjectName": "Physics",
-    "subjectParts": "Part B",
-    "ans": "9.8",
-    "chapterName": "Gravity",
-    "chapterPart": "2",
-    "question": "What is the value of g on Earth?",
-    "chapterId": "ch02",
-    "youtubeVideoPath": "https://youtu.be/example2",
-    "imgUrl": "https://scontent.fisb17-1.fna.fbcdn.net/v/t39.30808-6/492700926_612149758515456_6896361631916097119_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGG7ak2DjWd-mIAxrbW7ZpeE6NJSI5EQN4To0lIjkRA3rGk5iHN2ZKvOPFrHPP8-95ei-DRIwssky4N1cKmGfsY&_nc_ohc=LdeoPnE9Xk4Q7kNvwFTNxNd&_nc_oc=AdmYmHOHo4DWmVZZEKuY-mmkVVSEc1G1dSfPIqwMF1fvnTjrqJC0cSGVfyXYFikumyPTjNF22DFwcjoaUOu5QvNi&_nc_zt=23&_nc_ht=scontent.fisb17-1.fna&_nc_gid=LFPk302cvgHx88gzuI72Uw&oh=00_AfEnFBun8Z0IKDGL-hnHgyV4QBdPx1uDnWy3sx22F7VPeg&oe=68191121"
-  }
-]
-[
-  {
-    "uid": "1",
-    "subjectId": "math101",
-    "subjectName": "English",
-    "subjectParts": "Part A",
-    "ans": "42",
-    "chapterName": "Algebra",
-    "chapterPart": "1",
-    "question": "What is x if 2x = 84?",
-    "chapterId": "ch01",
-    "youtubeVideoPath": "https://youtu.be/example",
-    "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/my-json-data/main/images/algebra.png"
-  }
-]
+{
+  "list1": [
+    {
+      "uid": "1",
+      "subjectName": "English",
+      "question": "What is x if 2x = 84?",
+      "imgUrl": "https://example.com/image1.png"
+    }
+  ],
+  "list2": [
+    {
+      "uid": "2",
+      "subjectName": "Physics",
+      "question": "What is the value of g on Earth?",
+      "imgUrl": "https://example.com/image2.png"
+    }
+  ]
+}
