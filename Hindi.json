@@ -1,0 +1,15 @@
+[
+  {
+    "uid": "1",
+    "subjectId": "math101",
+    "subjectName": "English",
+    "subjectParts": "Part A",
+    "ans": "42",
+    "chapterName": "Algebra",
+    "chapterPart": "1",
+    "question": "What is x if 2x = 84?",
+    "chapterId": "ch01",
+    "youtubeVideoPath": "https://youtu.be/example",
+    "imgUrl": "https://raw.githubusercontent.com/Muhammadadnan378/my-json-data/main/images/algebra.png"
+  }
+]
