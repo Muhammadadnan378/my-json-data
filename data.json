@@ -1,5 +1,28 @@
-{
-  "name": "ChatGPT",
-  "type": "AI",
-  "language": "multi"
-}
+[
+  {
+    "uid": "1",
+    "subjectId": "math101",
+    "subjectName": "Mathematics",
+    "subjectParts": "Part A",
+    "ans": "42",
+    "chapterName": "Algebra",
+    "chapterPart": "1",
+    "question": "What is x if 2x = 84?",
+    "chapterId": "ch01",
+    "youtubeVideoPath": "https://youtu.be/example",
+    "imgUrl": "https://example.com/image.png"
+  },
+  {
+    "uid": "2",
+    "subjectId": "phy101",
+    "subjectName": "Physics",
+    "subjectParts": "Part B",
+    "ans": "9.8",
+    "chapterName": "Gravity",
+    "chapterPart": "2",
+    "question": "What is the value of g on Earth?",
+    "chapterId": "ch02",
+    "youtubeVideoPath": "https://youtu.be/example2",
+    "imgUrl": "https://example.com/image2.png"
+  }
+]
