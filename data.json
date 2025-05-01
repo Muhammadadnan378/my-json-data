@@ -33,23 +33,23 @@
       "subjectName": "Physics",
       "chapter part 1": [
         {
-          "chapterName": "Physics 1",
-          "question": "What is g?",
-          "imgUrl": "https://example.com/image2.png"
+          "chapterName": "English 1",
+          "question": "What is x if 2x = 84?",
+          "imgUrl": "https://example.com/image1.png"
         }
       ],
       "chapter part 2": [
         {
-          "chapterName": "Physics 2",
-          "question": "State Newton's 2nd law",
-          "imgUrl": "https://example.com/image2.png"
+          "chapterName": "English 2",
+          "question": "What is x if 2x = 84?",
+          "imgUrl": "https://example.com/image1.png"
         }
       ],
       "chapter part 3": [
         {
-          "chapterName": "Physics 3",
-          "question": "Define velocity",
-          "imgUrl": "https://example.com/image2.png"
+          "chapterName": "English 3",
+          "question": "What is x if 2x = 84?",
+          "imgUrl": "https://example.com/image1.png"
         }
       ]
     }
