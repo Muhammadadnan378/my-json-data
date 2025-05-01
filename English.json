@@ -3,36 +3,51 @@
     {
       "uid": "1",
       "subjectName": "English",
-      "chapter part 1": [
+      "chapterPart1": [
         {
           "chapterName": "English 1",
-          "question": "What is your name",
-          "ans": "my name is Muhammad Adnan",
-          "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-          "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          "questions": [
+            {
+              "question": "What is your name",
+              "ans": "my name is Muhammad Adnan",
+              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
+              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+              "question": "What is your name",
+              "ans": "my name is Muhammad Adnan",
+              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
+              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            },
+            {
+              "question": "What is your name",
+              "ans": "my name is Muhammad Adnan",
+              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
+              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+          ]
         },
         {
           "chapterName": "English 2",
-          "question": "What is your name",
-          "ans": "my name is Muhammad Adnan",
-          "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-          "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          "questions": [
+            {
+              "question": "What is your name",
+              "ans": "my name is Muhammad Adnan",
+              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
+              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+          ]
         },
         {
           "chapterName": "English 3",
-          "question": "What is your name",
-          "ans": "my name is Muhammad Adnan",
-          "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-          "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        }
-      ],
-      "chapter part 2": [
-        {
-          "chapterName": "English 1",
-          "question": "What is your name",
-          "ans": "my name is Muhammad Adnan",
-          "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-          "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          "questions": [
+            {
+              "question": "What is your name",
+              "ans": "my name is Muhammad Adnan",
+              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
+              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            }
+          ]
         }
       ]
     }
