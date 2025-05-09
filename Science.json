@@ -8,11 +8,11 @@
           "questions": [
             {
               "questionsTitle": "Match the first column with appropriate entries in the second and third columns and remake the table.",
-              "questionsImage": null,
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/495370694_122099027444866734_7527029420078135697_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pcDqPDP6ap8Q7kNvwEgsjdB&_nc_oc=AdlJVbk0Q3MR7K_5V3uU2GO52Du3_a8imZf8jBok_W6jHgfcHDb7r7wPwnS_vybqal0&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=z_cQfvYYxIi5ix5E4XSS8g&oh=00_AfJ-elG0LyFHZ4fc9dHERtxmVXkhu-dkD9jNg6fH0_sA9Q&oe=6823B741",
               "subQuestion": [
                 {
                   "question": "Match the first column with appropriate entries in the second and third columns and remake the table.",
-                  "ans": "**IMAGE**",
+                  "ans": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/495329746_122099027660866734_5707731204468750005_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=i-UhafqsEZ4Q7kNvwHMhING&_nc_oc=AdkqcH_xATU1aRSB9fGW2fqWI9vZawhOT95WRTdd8yNh_88f66rKUjvCB-5gMFobbGA&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=QiGpUB_BfncaMs6l_GyFEg&oh=00_AfL38qsv_M9XjTwB8Yyt5hb-amyVP0hDdc0fV5rTT8n5TQ&oe=682390B6",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 }
@@ -24,7 +24,7 @@
               "subQuestion": [
                 {
                   "question": "Clarify the differences between Distance and displacement",
-                  "ans": "i. Distance refers to \"how much length an object has covered\" during its motion. And, displacement refers to \"how far out of place an object is\"; It is the object's overall change in position.\n\nii. It depends only on magnitude not on direction. Displacement depends on both magnitude as well as direction.\n\niii. **IMAGE**\n\niv) Distance is a scalar quantity as it has only magnitude whereas Displacement is a vector quantity as it has both magnitude and displacement.",
+                  "ans": "i. Distance refers to \"how much length an object has covered\" during its motion. And, displacement refers to \"how far out of place an object is\"; It is the object's overall change in position.\n\nii. It depends only on magnitude not on direction. Displacement depends on both magnitude as well as direction.\n\niii. *IMAGE*\n\niv) Distance is a scalar quantity as it has only magnitude whereas Displacement is a vector quantity as it has both magnitude and displacement.",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 }
@@ -36,7 +36,7 @@
               "subQuestion": [
                 {
                   "question": "Clarify the differences between Uniform and non-uniform motion",
-                  "ans": "(i) The difference between uniform and non-uniform motion relies on, whether the velocity of the moving body is changing or not. If the velocity of the object changes to particular rate, then the motion is uniform, but if it increases or decreases at different points of time, then this movement is called as non-uniform motion.\n\n(ii) In uniform motion, the object covers equal distance in equal time interval. In non-uniform motion, object covers equal distances in unequal time-intervals.\n\n(iii) **IMAGE**",
+                  "ans": "(i) The difference between uniform and non-uniform motion relies on, whether the velocity of the moving body is changing or not. If the velocity of the object changes to particular rate, then the motion is uniform, but if it increases or decreases at different points of time, then this movement is called as non-uniform motion.\n\n(ii) In uniform motion, the object covers equal distance in equal time interval. In non-uniform motion, object covers equal distances in unequal time-intervals.\n\n(iii) *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 }
@@ -66,25 +66,25 @@
                 },
                 {
                   "question": "Deceleration is _____ acceleration",
-                  "ans": "Deceleration is negative acceleration.\n\nExplanation: Acceleration means increase in velocity. And, for decrease in velocity we have another term called \"negative acceleration or deceleration\". **IMAGE**",
+                  "ans": "Deceleration is negative acceleration.\n\nExplanation: Acceleration means increase in velocity. And, for decrease in velocity we have another term called \"negative acceleration or deceleration\". *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 },
                 {
                   "question": "When an object is in uniform circular motion, its _____changes at every point.",
-                  "ans": "When an object is in uniform circular motion, its velocity changes at every point.\n\nExplanation: In uniform circular motion, the speed of the object is same. Since, it direction is changing at every instant, hence its velocity changes. Because, velocity is speed with direction. **IMAGE**",
+                  "ans": "When an object is in uniform circular motion, its velocity changes at every point.\n\nExplanation: In uniform circular motion, the speed of the object is same. Since, it direction is changing at every instant, hence its velocity changes. Because, velocity is speed with direction. *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 },
                 {
                   "question": "During collision _____remains constant.",
-                  "ans": "During collision total momentum remains constant.\n\nExplanation: During collision the total momentum, remains the same. **IMAGE**",
+                  "ans": "During collision total momentum remains constant.\n\nExplanation: During collision the total momentum, remains the same. *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 },
                 {
                   "question": "The working of a rocket depends on Newton's _____ law of motion.",
-                  "ans": "The working of a rocket depends on Newton's third law of motion.\n\nExplanation: According to Newton's third law of motion, every action has an equal and opposite reaction. In a rocket, the burnt fuel releases gases, which push the rocket upwards. **IMAGE**",
+                  "ans": "The working of a rocket depends on Newton's third law of motion.\n\nExplanation: According to Newton's third law of motion, every action has an equal and opposite reaction. In a rocket, the burnt fuel releases gases, which push the rocket upwards. *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 }
@@ -102,7 +102,7 @@
                 },
                 {
                   "question": "Even though the magnitudes of action force and reaction force are equal and their directions are opposite, their effects do not get cancelled.",
-                  "ans": "i. When the point of action of the two equal and opposite forces is the same, then these do cancel out.\n\nii. But when the point of action of the two equal and opposite forces is different Though it located on the same body but separated by some distance between a the points of action of the two forces, then these forces don't cancel out, but rather produce a couple. Example, closing a tap.\n\niii. But, if they are acting on different bodies, they cannot cancel out but rather produce motion. For example, the downward weight is cancelled by the normal force while the force of the sun on the earth and its reaction, the force of the earth on the sun, do not cancel each other. **IMAGE**",
+                  "ans": "i. When the point of action of the two equal and opposite forces is the same, then these do cancel out.\n\nii. But when the point of action of the two equal and opposite forces is different Though it located on the same body but separated by some distance between a the points of action of the two forces, then these forces don't cancel out, but rather produce a couple. Example, closing a tap.\n\niii. But, if they are acting on different bodies, they cannot cancel out but rather produce motion. For example, the downward weight is cancelled by the normal force while the force of the sun on the earth and its reaction, the force of the earth on the sun, do not cancel each other. *IMAGE*",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 },
@@ -114,7 +114,7 @@
                 },
                 {
                   "question": "The velocity of an object at rest is considered to be uniform.",
-                  "ans": "In a uniform motion, the object travels equal distances in equal interval of time. Also, in uniform motion, the speed of the object is constant. **IMAGE**\n\nNow, for an object at rest, the speed of the object is zero. As the time passes by, the speed is still zero. Hence, the object at rest is also considered as object in uniform motion.",
+                  "ans": "In a uniform motion, the object travels equal distances in equal interval of time. Also, in uniform motion, the speed of the object is constant. *IMAGE*\n\nNow, for an object at rest, the speed of the object is zero. As the time passes by, the speed is still zero. Hence, the object at rest is also considered as object in uniform motion.",
                   "youtubeVideoPath": null,
                   "imgUrl": null
                 }
