@@ -1,94 +1,166 @@
 {
   "list1": [
     {
-      "uid": "1",
       "subjectName": "Science",
       "chapter part 1": [
         {
-         "chapterName": "Science 1",
+          "chapterName": "1. LAW of Motion",
           "questions": [
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Match the first column with appropriate entries in the second and third columns and remake the table.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Match the first column with appropriate entries in the second and third columns and remake the table.",
+                  "ans": "**IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Clarify the differences between Distance and displacement",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Clarify the differences between Distance and displacement",
+                  "ans": "i. Distance refers to \"how much length an object has covered\" during its motion. And, displacement refers to \"how far out of place an object is\"; It is the object's overall change in position.\n\nii. It depends only on magnitude not on direction. Displacement depends on both magnitude as well as direction.\n\niii. **IMAGE**\n\niv) Distance is a scalar quantity as it has only magnitude whereas Displacement is a vector quantity as it has both magnitude and displacement.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Science 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Clarify the differences between Uniform and non-uniform motion",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Clarify the differences between Uniform and non-uniform motion",
+                  "ans": "(i) The difference between uniform and non-uniform motion relies on, whether the velocity of the moving body is changing or not. If the velocity of the object changes to particular rate, then the motion is uniform, but if it increases or decreases at different points of time, then this movement is called as non-uniform motion.\n\n(ii) In uniform motion, the object covers equal distance in equal time interval. In non-uniform motion, object covers equal distances in unequal time-intervals.\n\n(iii) **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Science 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Complete the following table.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Complete the following table.",
+                  "ans": "From the first equation of motion, v=u+at\nhere,\nv = final velocity\nu = initial velocity\na is the acceleration\nt is the time\n\nIn the first table,\nFrom Ist row, v = ?\nv = 2m/s + 4ms^-2 × 3s\nv = 2m/s + 12 m/s\nv = 14 m/s\n\nFrom 2nd row, u = ?\nv = u + at\n20 m/s = u + 5ms^-2 × 2s\n20 m/s – 10m/s = u\nu = 10 m/s\n\nNow, in the second table,\nFrom the equation of motion, S=ut + 1/2 at^2\nWhere, s is the distance\n\"u\" is the initial velocity.\n\"v\" is the final velocity.\n\"t\" is the time.\n\"a\" is the acceleration\n\nFrom Ist row, s = ?\nS = ut + 1/2 at^2\nS = 5ms^-1 × 3s + 1/2 × 12ms^-2 × 3s × 3s\nS = 15m + 54m\nS = 69 m\n\nFrom 2nd row, a = ?\nS = ut + 1/2 at^2\n92m = 7ms^-1 × 4s + 1/2 × a × 4s × 4s\n92 m = 28 m + a × 8s^2\na × 8s^2 = 92 – 28 m\na × 8s^2 = 64 m\na = 8 m/s^2\n\nNow, for the third table,\nFrom second equation of motion, v^2 = u^2 + 2as\n\nFrom Ist row ⇒ 8 = 4 × 4 + 2 × 3 × S\n8 = 16 + 6 × S\n-8 = 6 × S\n-8/6 = S\nS = -3/2 = -1.5 m\n\nFrom 2nd row ⇒ 10 = u^2 + 2 × 5 × 8.4\n10 = u^2 + 84\n-74 = u^2\nu = -8.6 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Complete the sentences and explain them.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The minimum distance between the start and finish points of the motion of an object is called the _____ of the object.",
+                  "ans": "The minimum distance between the start and finish points of the motion of an object is called the displacement of the object.\n\nExplanation: As seen in the given figure, the distance is not same as displacement. In fact, the displacement is the shortest distance between two given points.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "Deceleration is _____ acceleration",
+                  "ans": "Deceleration is negative acceleration.\n\nExplanation: Acceleration means increase in velocity. And, for decrease in velocity we have another term called \"negative acceleration or deceleration\". **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "When an object is in uniform circular motion, its _____changes at every point.",
+                  "ans": "When an object is in uniform circular motion, its velocity changes at every point.\n\nExplanation: In uniform circular motion, the speed of the object is same. Since, it direction is changing at every instant, hence its velocity changes. Because, velocity is speed with direction. **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "During collision _____remains constant.",
+                  "ans": "During collision total momentum remains constant.\n\nExplanation: During collision the total momentum, remains the same. **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "The working of a rocket depends on Newton's _____ law of motion.",
+                  "ans": "The working of a rocket depends on Newton's third law of motion.\n\nExplanation: According to Newton's third law of motion, every action has an equal and opposite reaction. In a rocket, the burnt fuel releases gases, which push the rocket upwards. **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        }
-      ],
-      "chapter part 2": [
-        {
-         "chapterName": "Science 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Give scientific reasons.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "When an object falls freely to the ground, its acceleration is uniform.",
+                  "ans": "As we know that G' = G × (Re/(Re+H))^2\nWhere, G' = new gravitational acceleration\nG = gravitational acceleration initial (9.8 m/sec^2)\nH = Height from the surface of Earth\nRe = Radius of Earth\n\nThe height from which the body will be H<<Re\nThis means (Re/(Re+H))^2 ≈ 1\nWe get G' ≈ G = 9.8 m/sec^2\nHence, the acceleration of free falling body is uniform on the surface of Earth and decreases with the height of the body.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "Even though the magnitudes of action force and reaction force are equal and their directions are opposite, their effects do not get cancelled.",
+                  "ans": "i. When the point of action of the two equal and opposite forces is the same, then these do cancel out.\n\nii. But when the point of action of the two equal and opposite forces is different Though it located on the same body but separated by some distance between a the points of action of the two forces, then these forces don't cancel out, but rather produce a couple. Example, closing a tap.\n\niii. But, if they are acting on different bodies, they cannot cancel out but rather produce motion. For example, the downward weight is cancelled by the normal force while the force of the sun on the earth and its reaction, the force of the earth on the sun, do not cancel each other. **IMAGE**",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "It is easier to stop a tennis ball as compared to a cricket ball, when both are travelling with the same velocity.",
+                  "ans": "Cricket ball is heavier than the tennis ball. Hence, the force required to stop a cricket ball is more as compared to tennis ball with the same velocity.\n\nAs we know, Force = Mass × acceleration\nHere, force is directly proportional to mass.\n\nSo even if the velocity is same, the mass of leather ball is greater than that of tennis ball and the momentum (which is mass multiplied by velocity) and hence has more momentum and it is not easier to stop cricket ball.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "The velocity of an object at rest is considered to be uniform.",
+                  "ans": "In a uniform motion, the object travels equal distances in equal interval of time. Also, in uniform motion, the speed of the object is constant. **IMAGE**\n\nNow, for an object at rest, the speed of the object is zero. As the time passes by, the speed is still zero. Hence, the object at rest is also considered as object in uniform motion.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Take 5 examples from your surroundings and give explanation based on Newtons laws of motion.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Take 5 examples from your surroundings and give explanation based on Newtons laws of motion.",
+                  "ans": "1. Newton's law of motion: Explanation with examples\n   According to the first law: If an object at rest will remain in rest, in motion will remain in motion unless an external unbalanced force act on it.\n   Example 1: Pushing a big rock, the rock will stay in place until you push it.\n   Example 2. When sends rocket up in space, there is almost a perfect amount of earth gravity for ship to not come crashing down.\n   Example 3. When we shot the bullet in a space, it would be keep in straight line until it either reached gravity of another planet.\n\n2. Newton's law of motion: Explanation with examples\n   According to 2nd law: The force is directly proportional to rate of change of momentum.\n   Example 1: If a truck and bicycle did a short race at the same speed, then bicycle will win the race.\n   Example 2: For a long race truck will win the race because F=ma and a(acceleration) is more.\n   Example 3: If a dog is pulling a rock then acceleration is fully dependent on force of dog because mass of rock will not change.\n\n3. Newton's law of motion: Explanation with examples\n   According to the 3rd law of motion, for every action there is an equal and opposite reaction.\n   Example 1. When we push the floor, the floor pushes back.\n   Example 2. Cars wheel produce friction trying to push and ground exerts an opposite force to push it.\n   Example 3. Rockets use fuel to push on ground, which lifts them up. Rockets also rely on friction with air so that the fuel still works.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Solve the following examples.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "An object moves 18 m in the first 3 s, 22 m in the next 3 s and 14 m in the last 3 s. What is its average speed?",
+                  "ans": "We know, Average speed = Total distance/Total time\n= (18 + 22 + 14)/9\n= 54/9\n= 6m/s\n∴ the average speed is 6 m/sec.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "An object of mass 16 kg is moving with an acceleration of 3 m/s^2. Calculate the applied force. If the same force is applied on an object of mass 24 kg, how much will be the acceleration?",
+                  "ans": "F = ma\nWhere m = 16kg\na = 3m/s^2\nF = 16 × 3 = 48 N\n\nIf F = 48 N\nm = 24kg\nF = ma\n48 = 24 × a\na = 2 m/s^2",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "A bullet having a mass of 10 g and moving with a speed of 1.5 m/s, penetrates a thick wooden plank of mass 90 g. The plank was initially at rest. The bullet gets embedded in the plank and both move together. Determine their velocity.",
+                  "ans": "Given:\nMass of bullet, m₁ = 10g = 0.01 kg\nSpeed of bullet, v₁ = 1.5 m/sec\nMass of wooden plank, m₂ = 90 g = 0.09 kg\nVelocity of plank + bullet system = ?\n\nHere, we will apply the law of conservation of momentum,\ni.e. Final momentum = initial momentum\n\nIf we take bullet and thick wooden plank as a system then, initially only bullet is moving with speed of 1.5 m/s and plank is in rest.\n∴ initial Momentum (pᵢ) = mass of bullet × velocity\n= 0.01 kg × 1.5 m/sec\n= 0.015 kgms⁻¹\n⇒ pᵢ = 0.015 kgms⁻¹ ….(1)\n\nNow, when the bullet hits the plank, then both the objects are attached.\nSo, new mass(M) = mass of bullet + mass of plank\n= 0.01 kg + 0.09 kg\n= 0.1kg\n\nThen,\nFinal momentum, pf = New mass (M) × (velocity of plank & bullet system)\n⇒ pf = 0.1kg × v….(2)\n\nNow, from equation (1) & (2), we get,\nPᵢ = pf\n⇒ 0.015 kgms⁻¹ = 0.1kg × v\n⇒ v = 0.015/0.1\n⇒ v = 0.15 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                },
+                {
+                  "question": "A person swims 100 m in the first 40 s, 80 m in the next 40 s and 45 m in the last 20 s. What is the average speed?",
+                  "ans": "The average speed is given as:\n⇒ Average speed = Total distance/Total time\n⇒ Average speed = (100 + 80 + 45)/(40 + 40 + 20)\n⇒ Average speed = 225/100 = 2.25 m/s\n\nTherefore, the average speed is 2.25 m/sec.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
             }
           ]
         }
