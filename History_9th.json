@@ -1,0 +1,74 @@
+{
+  "list1": [
+    {
+      "subjectName": "History",
+      "chapter part 1": [
+        {
+          "chapterName": "1.Sources of history",
+          "questions": [
+            {
+              "questionsTitle": "Q. 1 Choose the correct option and complete the statements: (1 mark each)",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "(1) The National Archives of India is situated at _________. (a) Pune (b) New Delhi (c) Kolkata (d) Hyderabad",
+                  "ans": "(1) The National Archives of India is situated at New Delhi.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "(2) The _________ is included among the Audio-Visual media. (a) Newspaper (b) Television (c) All India Radio (d) Periodicals",
+                  "ans": "(2) The Television is included among the Audio-Visual media.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "(3) _________ is not included in physical sources. (a) Coins (b) Ornaments (c) Buildings (d) Proverbs",
+                  "ans": "(3) Proverbs is not included in physical sources.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q. 3 Write short notes",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "(1) Written Sources:",
+                  "ans": "(1) The written sources are most reliable sources of history. (2) The written sources are classified as printed sources like newspapers, periodicals, books Government Gazettes and Encyclopaedias. (3) Handwritten literature like Diaries, Correspondence, Documents in Archives are also part of written sources. (4) We can study social developments, movements, administrative policies, social practices, social progress and cultural life.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "(2) Press Trust of India (PTI):",
+                  "ans": "(1) The Press Trust of India (PTI) has been an important source of primary details of all information events for the newspapers in India since 1953. (2) PTI also provides reports, photographs and articles on financial and scientific issues to newspapers. (3) In 1990s, the PTI started using the technology of ‘satellite broadcasting’ instead of teleprinters to send news all over the country. (4) The PTI has now started its ‘online service’. The material provided by the PTI is an important source for writing the history of modern India.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q. 4 Explain the following statements with reasons",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "(1) The Postal Department tries to preserve the heritage and integrity of Indian culture through postage stamps.",
+                  "ans": "(1) There have been a number of changes in postage stamps since India became independent. (2) Postage stamps reveal a lot about changing times, variety of sizes, novelty in subjects and colour scheme. (3) The Postal Department issues postage stamps on a wide variety of themes like political leaders, flowers, animals and birds. (4) It issues postage stamps at events like silver, golden and diamond jubilees; centenary, bicentenary and tricentenary of different events. It is a valuable repository of history.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "(2) Audio-visual media are an important source of writing the history of modern India.",
+                  "ans": "(1) Television, films and internet are called ‘audio-visual’ media. Television picturises and telecasts important events in politics, social issues, art, sports and culture. (2) Similar work is done by Indian News Review. In addition, it produces documentaries on prominent social leaders and on people who have made major contribution to the country. (3) These news releases and documentaries are useful for studying the history of modern India. (4) Thus, Audio-visual media are an important source of writing the history of modern India.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
