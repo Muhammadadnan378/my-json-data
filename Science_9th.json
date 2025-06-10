@@ -1,205 +1,233 @@
 {
-    "list1": [
+  "list1": [
+    {
+      "subjectName": "Science_9th",
+      "chapter part 1": [
         {
-            "subjectName": "Science_9th",
-            "chapter part 1": [
+          "chapterName": "1.Law of Motion",
+          "questions": [
+            {
+              "questionsTitle": "Complete the sentences",
+              "questionsImage": null,
+              "subQuestion": [
                 {
-                    "chapterName": "1.Law of Motion",
-                    "questions": [
-                        {
-                            "questionsTitle": "Complete the sentences",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "(1) The minimum distance between the start and finish points of the motion of an object is called the ________.",
-                                    "ans": "displacement of the object.",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(2) ________ is negative acceleration.",
-                                    "ans": "Deceleration",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(3) When an object is in uniform circular motion, its ________ changes at every point.",
-                                    "ans": "velocity",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(4) During collision total ________ remains constant.",
-                                    "ans": "momentum",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(5) The working of a rocket depends on ________.",
-                                    "ans": "Newton’s third law of motion",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        },
-                        {
-                            "questionsTitle": "Complete the following table with correct calculations (Motion Formulas)",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "(1)(i) Given: u = 2, a = 4, t = 3. Find v using v = u + at",
-                                    "ans": "v = 2 + 4 × 3 = 2 + 12 = 14 m/s",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(1)(ii) Given: a = 5, t = 2, v = 20. Find u using u = v - at",
-                                    "ans": "u = 20 - 5 × 2 = 20 - 10 = 10 m/s",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(2)(i) Given: u = 5, a = 12, t = 3. Find s using s = ut + ½at²",
-                                    "ans": "s = 5 × 3 + 0.5 × 12 × 9 = 15 + 54 = 69 m",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(2)(ii) Given: u = 7, t = 4, s = 92. Find a using s = ut + ½at²",
-                                    "ans": "92 = 28 + 8a → 8a = 64 → a = 8 m/s²",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(3)(i) Given: u = 4, a = 3, v = 8. Find s using v² = u² + 2as",
-                                    "ans": "64 = 16 + 6s → 6s = 48 → s = 8 m",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "(3)(ii) Given: a = 5, s = 8.4, v = 10. Find u using v² = u² + 2as",
-                                    "ans": "100 = u² + 84 → u² = 16 → u = 4 m/s",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        },
-                        {
-                            "questionsTitle": "Match the columns",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "Match the following based on acceleration types and scenarios.",
-                                    "ans": "",
-                                    "subAns": [
-                                        {
-                                            "Column I": "Negative acceleration",
-                                            "Column II": "The velocity of the object decreases",
-                                            "Column III": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
-                                        },
-                                        {
-                                            "Column I": "Positive acceleration",
-                                            "Column II": "The velocity of the object increases",
-                                            "Column III": "A car, initially at rest, reaches a velocity of 50 km/h in 10 seconds"
-                                        },
-                                        {
-                                            "Column I": "Zero acceleration",
-                                            "Column II": "The velocity of the object remains constant",
-                                            "Column III": "A vehicle is moving with a velocity of 25 m/s"
-                                        }
-                                    ],
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        },
-                        {
-                            "questionsTitle": "Give scientific reasons",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "(1) The velocity of an object at rest is considered to be uniform.",
-                                    "ans": "(1) The velocity of an object at rest is always zero.\n(2) Thus, it does not change with time. Hence, it is considered to be uniform."
-                                },
-                                {
-                                    "question": "(2) When an object falls freely to the ground, its acceleration is uniform.",
-                                    "ans": "(1) When an object falls freely, the only force acting on the object is that due to the earth’s gravity.\n(2) Near the earth’s surface, this force on a given object is practically uniform. Hence, an object falling freely to the ground has almost a uniform acceleration."
-                                },
-                                {
-                                    "question": "(3) Even though the magnitudes of action force and reaction force are equal and their directions are opposite, their effects do not get cancelled.",
-                                    "ans": "Action and reaction forces act on different bodies. Hence, though their magnitudes are equal and directions are opposite, their effects do not get cancelled."
-                                },
-                                {
-                                    "question": "(4) It is easier to stop a tennis ball as compared to a cricket ball, when both are travelling with the same velocity.",
-                                    "ans": "(1) The momentum of a body is the product of its mass and velocity. The mass of a cricket ball is greater than that of a tennis ball. Hence, if the two balls have the same velocity, the momentum of the cricket ball will be greater than that of the tennis ball.\n(2) Also a cricket ball is harder than a tennis ball. Therefore, it is easy to stop a tennis ball than a cricket ball moving with the same velocity."
-                                }
-                            ],
-                            "youtubeVideoPath": null,
-                            "imgUrl": null
-                        },
-                        {
-                            "questionsTitle": "Distance and Displacement",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "Distance",
-                                    "ans": "1. Distance is the length of the actual path followed by a body between the points under consideration.\n2. It does not have direction.\n3. It is greater than or equal to the magnitude of displacement.",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "Displacement",
-                                    "ans": "1. Displacement is the shortest distance from the initial point to the final point of movement of a body.\n2. It has direction.\n3. Its magnitude is less than or equal to the distance.",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        },
-                        {
-                            "questionsTitle": "Uniform and Nonuniform Motion",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "Uniform Motion",
-                                    "ans": "1. A body is said to have uniform motion when it covers equal distances in very small equal intervals of time.\n2. In this case, the speed of the body is constant.",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "Nonuniform Motion",
-                                    "ans": "1. A body is said to have nonuniform motion when it covers unequal distances in equal intervals of time.\n2. In this case, the speed of the body is not constant.",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        },
-                        {
-                            "questionsTitle": "Newton's Laws and Motion Problems",
-                            "questionsImage": null,
-                            "subQuestion": [
-                                {
-                                    "question": "An object of mass 16 kg moving with an acceleration of 3 m/s². Calculate the applied force. If the same force is applied on an object of mass 24 kg, how much will be the acceleration?",
-                                    "ans": "Data: m₁ = 16 kg, a₁ = 3 m/s², F = ?, m₂ = 24 kg, a₂ = ?\n\n(i) F = m₁a₁ = 16 kg × 3 m/s² = 48 N\nThe force acting on the object = 48 N\n\n(ii) F = m₂a₂\n∴ a₂ = F / m₂ = 48 N / 24 kg = 2 m/s²\nThe acceleration of the object = 2 m/s²",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "An object moves 18 m in the first 3 seconds, 22 m in the next 3 seconds, and 14 m in the last 3 seconds. What is its average speed?",
-                                    "ans": "Data: s₁ = 18 m, t₁ = 3 s, s₂ = 22 m, t₂ = 3 s, s₃ = 14 m, t₃ = 3 s, average speed = ?\n\nAverage speed = (total distance travelled) / (total time taken)\n= (s₁ + s₂ + s₃) / (t₁ + t₂ + t₃)\n= (18 m + 22 m + 14 m) / (3 s + 3 s + 3 s)\n= 54 / 9 m/s = 6 m/s\nThe average speed of the object = 6 m/s",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                },
-                                {
-                                    "question": "A bullet having a mass of 10 g and moving with a speed of 1.5 m/s penetrates a thick wooden plank of mass 90 g. The plank was initially at rest. The bullet gets embedded in the plank and both move together. Determine their velocity.",
-                                    "ans": "Data: m₁ = 10 g = 10 × 10⁻³ kg, u₁ = 1.5 m/s, m₂ = 90 g = 90 × 10⁻³ kg, u₂ = 0 m/s, v₁ = v₂ = v = ?\n\nBy the law of conservation of momentum,\nm₁u₁ + m₂u₂ = m₁v₁ + m₂v₂\nAs u₁ = 0 m/s and v₁ = v₂ = v, we have\nm₁u₁ = (m₁ + m₂)v\n∴ v = (m₁u₁) / (m₁ + m₂)\n= (10 × 10⁻³ kg × 1.5 m/s) / (10 × 10⁻³ kg + 90 × 10⁻³ kg)\n= (10 × 1.5) / 100 m/s = 0.15 m/s\nThe speed with which the plank containing the bullet moves = 0.15 m/s",
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
-                                }
-                            ]
-                        }
-                    ]
+                  "question": "(1) The minimum distance between the start and finish points of the motion of an object is called the ________.",
+                  "ans": "displacement of the object.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) ________ is negative acceleration.",
+                  "ans": "Deceleration",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3) When an object is in uniform circular motion, its ________ changes at every point.",
+                  "ans": "velocity",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(4) During collision total ________ remains constant.",
+                  "ans": "momentum",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(5) The working of a rocket depends on ________.",
+                  "ans": "Newton’s third law of motion",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
                 }
-            ]
+              ]
+            },
+            {
+              "questionsTitle": "Complete the following table with correct calculations (Motion Formulas)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1)(i) Given: u = 2, a = 4, t = 3. Find v using v = u + at",
+                  "ans": "v = 2 + 4 × 3 = 2 + 12 = 14 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(1)(ii) Given: a = 5, t = 2, v = 20. Find u using u = v - at",
+                  "ans": "u = 20 - 5 × 2 = 20 - 10 = 10 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2)(i) Given: u = 5, a = 12, t = 3. Find s using s = ut + ½at²",
+                  "ans": "s = 5 × 3 + 0.5 × 12 × 9 = 15 + 54 = 69 m",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2)(ii) Given: u = 7, t = 4, s = 92. Find a using s = ut + ½at²",
+                  "ans": "92 = 28 + 8a → 8a = 64 → a = 8 m/s²",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3)(i) Given: u = 4, a = 3, v = 8. Find s using v² = u² + 2as",
+                  "ans": "64 = 16 + 6s → 6s = 48 → s = 8 m",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3)(ii) Given: a = 5, s = 8.4, v = 10. Find u using v² = u² + 2as",
+                  "ans": "100 = u² + 84 → u² = 16 → u = 4 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Match the columns",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Match the following based on acceleration types and scenarios.",
+                  "ans": "",
+                  "subAns": [
+                    {
+                      "Column I": "Negative acceleration",
+                      "Column II": "The velocity of the object decreases",
+                      "Column III": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
+                    },
+                    {
+                      "Column I": "Positive acceleration",
+                      "Column II": "The velocity of the object increases",
+                      "Column III": "A car, initially at rest, reaches a velocity of 50 km/h in 10 seconds"
+                    },
+                    {
+                      "Column I": "Zero acceleration",
+                      "Column II": "The velocity of the object remains constant",
+                      "Column III": "A vehicle is moving with a velocity of 25 m/s"
+                    }
+                  ],
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Give scientific reasons",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) The velocity of an object at rest is considered to be uniform.",
+                  "ans": "(1) The velocity of an object at rest is always zero.\n(2) Thus, it does not change with time. Hence, it is considered to be uniform.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) When an object falls freely to the ground, its acceleration is uniform.",
+                  "ans": "(1) When an object falls freely, the only force acting on the object is that due to the earth’s gravity.\n(2) Near the earth’s surface, this force on a given object is practically uniform. Hence, an object falling freely to the ground has almost a uniform acceleration.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3) Even though the magnitudes of action force and reaction force are equal and their directions are opposite, their effects do not get cancelled.",
+                  "ans": "Action and reaction forces act on different bodies. Hence, though their magnitudes are equal and directions are opposite, their effects do not get cancelled.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(4) It is easier to stop a tennis ball as compared to a cricket ball, when both are travelling with the same velocity.",
+                  "ans": "(1) The momentum of a body is the product of its mass and velocity. The mass of a cricket ball is greater than that of a tennis ball. Hence, if the two balls have the same velocity, the momentum of the cricket ball will be greater than that of the tennis ball.\n(2) Also a cricket ball is harder than a tennis ball. Therefore, it is easy to stop a tennis ball than a cricket ball moving with the same velocity.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Distance and Displacement",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Distance",
+                  "ans": "1. Distance is the length of the actual path followed by a body between the points under consideration.\n2. It does not have direction.\n3. It is greater than or equal to the magnitude of displacement.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Displacement",
+                  "ans": "1. Displacement is the shortest distance from the initial point to the final point of movement of a body.\n2. It has direction.\n3. Its magnitude is less than or equal to the distance.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Uniform and Nonuniform Motion",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Uniform Motion",
+                  "ans": "1. A body is said to have uniform motion when it covers equal distances in very small equal intervals of time.\n2. In this case, the speed of the body is constant.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Nonuniform Motion",
+                  "ans": "1. A body is said to have nonuniform motion when it covers unequal distances in equal intervals of time.\n2. In this case, the speed of the body is not constant.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Newton's Laws and Motion Problems",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "An object of mass 16 kg moving with an acceleration of 3 m/s². Calculate the applied force. If the same force is applied on an object of mass 24 kg, how much will be the acceleration?",
+                  "ans": "Data: m₁ = 16 kg, a₁ = 3 m/s², F = ?, m₂ = 24 kg, a₂ = ?\n\n(i) F = m₁a₁ = 16 kg × 3 m/s² = 48 N\nThe force acting on the object = 48 N\n\n(ii) F = m₂a₂\n∴ a₂ = F / m₂ = 48 N / 24 kg = 2 m/s²\nThe acceleration of the object = 2 m/s²",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "An object moves 18 m in the first 3 seconds, 22 m in the next 3 seconds, and 14 m in the last 3 seconds. What is its average speed?",
+                  "ans": "Data: s₁ = 18 m, t₁ = 3 s, s₂ = 22 m, t₂ = 3 s, s₃ = 14 m, t₃ = 3 s, average speed = ?\n\nAverage speed = (total distance travelled) / (total time taken)\n= (s₁ + s₂ + s₃) / (t₁ + t₂ + t₃)\n= (18 m + 22 m + 14 m) / (3 s + 3 s + 3 s)\n= 54 / 9 m/s = 6 m/s\nThe average speed of the object = 6 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "A bullet having a mass of 10 g and moving with a speed of 1.5 m/s penetrates a thick wooden plank of mass 90 g. The plank was initially at rest. The bullet gets embedded in the plank and both move together. Determine their velocity.",
+                  "ans": "Data: m₁ = 10 g = 10 × 10⁻³ kg, u₁ = 1.5 m/s, m₂ = 90 g = 90 × 10⁻³ kg, u₂ = 0 m/s, v₁ = v₂ = v = ?\n\nBy the law of conservation of momentum,\nm₁u₁ + m₂u₂ = m₁v₁ + m₂v₂\nAs u₁ = 0 m/s and v₁ = v₂ = v, we have\nm₁u₁ = (m₁ + m₂)v\n∴ v = (m₁u₁) / (m₁ + m₂)\n= (10 × 10⁻³ kg × 1.5 m/s) / (10 × 10⁻³ kg + 90 × 10⁻³ kg)\n= (10 × 1.5) / 100 m/s = 0.15 m/s\nThe speed with which the plank containing the bullet moves = 0.15 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
