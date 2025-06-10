@@ -108,10 +108,10 @@
                                             "Column III": "A vehicle is moving with a velocity of 25 m/s"
                                         }
                                     ],
+                                    "youtubeVideoPath": null,
+                                    "imgUrl": null
                                 }
-                            ],
-                            "youtubeVideoPath": null,
-                            "imgUrl": null
+                            ]
                         },
                         {
                             "questionsTitle": "Give scientific reasons",
