@@ -1,94 +1,124 @@
 {
   "list1": [
     {
-      "uid": "1",
       "subjectName": "Maths",
       "chapter part 1": [
         {
-         "chapterName": "Maths 1",
+          "chapterName": "1.Sets",
           "questions": [
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Practice Set 1.1 - Set Theory Fundamentals",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "Write the following sets in roster method: (i) Set of even natural numbers (ii) Set of even prime numbers from 1 to 50 (iii) Set of negative integers (iv) Seven basic sounds of a sargam (sur)",
+                  "ans": "(i) A = {2, 4, 6, 8, ...} (ii) P = {2} (iii) I = {..., -3, -2, -1} (iv) S = {sa, re, ga, ma, pa, dha, ni}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write the following symbolic statements in words: (i) 4/5 ∈ Q (ii) -2 ∉ N (iii) P = {p | p is an odd number}",
+                  "ans": "(i) 4/5 is an element of the set Q (ii) -2 is not an element of the set N (iii) Set P is a set of all p's such that p is an odd number",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write any two sets by listing method and by rule method",
+                  "ans": "(i) Listing method: A = {ruler, pair of compasses, protractor, set squares, divider, pencil, eraser}; Rule method: A = {x | x is a tool of geometry box} (ii) Listing method: B = {-2, -1, 0, 1, 2, 3}; Rule method: B = {x | x ∈ I, -3 < x ≤ 3}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write the following sets using listing method: (i) All months in the Indian Solar Year (ii) Letters in the word 'COMPLEMENT' (iii) Set of human sensory organs (iv) Set of prime numbers from 1 to 20 (v) Names of the continents of the world",
+                  "ans": "(i) A = {Chaitra, Vaishakha, Jyestha, Aashadha, Shravana, Bhadrapada, Ashwina, Kartika, Margashirsha (Agrahayan), Pausha, Magha, Falguna} (ii) B = {C, O, M, P, L, E, N, T} (iii) C = {Nose, Ears, Eyes, Tongue, Skin} (iv) D = {2, 3, 5, 7, 11, 13, 17, 19} (v) E = {Asia, Africa, North America, South America, Antarctica, Europe, Australia}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write the following sets using rule method: (i) A = {1, 4, 9, 16, 25, 36, 49, 64, 81, 100} (ii) B = {6, 12, 18, 24, 30, 36, 42, 48} (iii) C = {S, M, I, L, E} (iv) D = {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday} (v) X = {a, e, i}",
+                  "ans": "(i) A = {x | x = n², n ∈ N, n ≤ 10} (ii) B = {x | x = 6n, n ∈ N, n < 9} (iii) C = {y | y is a letter in the word 'SMILE'} (iv) D = {z | z is a day of the week} (v) X = {y | y is a letter in the word 'cat' or 'tea'}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Practice Set 1.2 - Equal Sets, Empty Sets, and Finite/Infinite Sets",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "Decide which of the following are equal sets and which are not. Justify your answer: (i) A = {x | 3x - 1 = 2} (ii) B = {x | x is a natural number but x is neither prime nor composite} (iii) C = {x | x ∈ N, x < 2}",
+                  "ans": "All three sets A, B, and C are equal sets. (i) A = {1} because 3x - 1 = 2 gives x = 1 (ii) B = {1} because 1 is the only natural number that is neither prime nor composite (iii) C = {1} because 1 is the only natural number less than 2. Since all sets contain the same element (1), they are equal sets.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Decide whether sets A and B are equal sets or not. Give reason for your answer: (i) A = {Even prime numbers} (ii) B = {x | 7x - 1 = 13}",
+                  "ans": "Sets A and B are equal sets. (i) A = {2} because 2 is the only even prime number (ii) B = {2} because solving 7x - 1 = 13 gives x = 2. Since both sets contain the same element (2), they are equal sets.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Which of the following sets are empty sets? Why? (i) A = {a | a is a natural number smaller than zero} (ii) B = {x | x² = 0} (iii) C = {x | 5x - 2 = 0, x ∈ N}",
+                  "ans": "(i) A is an empty set because there is no natural number smaller than zero (ii) B is not an empty set because x² = 0 gives x = 0, so B = {0} (iii) C is an empty set because 5x - 2 = 0 gives x = 2/5, which is not a natural number",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write with reasons, which of the following sets are finite or infinite: (i) A = {x | x < 10, x is a natural number} (ii) B = {y | y < -1, y is an integer} (iii) C = Set of students of class 9 from your school (iv) Set of people from your village (v) Set of apparatus in laboratory (vi) Set of whole numbers (vii) Set of rational numbers",
+                  "ans": "Finite sets: (i) A = {1, 2, ..., 8, 9} - countable elements (iii) C - countable number of students (iv) countable number of people (v) limited apparatus. Infinite sets: (ii) B = {..., -4, -3, -2} - extends infinitely (vi) whole numbers continue infinitely (vii) infinite rational numbers exist",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Maths 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Maths 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        }
-      ],
-      "chapter part 2": [
-        {
-         "chapterName": "Maths 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Practice Set 1.3 - Subsets, Complements, and Venn Diagrams",
+              "questionsImage": "",
+              "subQuestion": [
+                {
+                  "question": "If A = {a, b, c, d, e}, B = {c, d, e, f}, C = {b, d}, D = {a, e}, then which of the following statements are true and which are false? (i) C ⊆ B (ii) A ⊆ D (iii) D ⊆ B (iv) D ⊆ A (v) B ⊆ A (vi) C ⊆ A",
+                  "ans": "(i) False - Element b of set C is not in set B (ii) False - All elements of set A are not in set D (iii) False - Element a of set D is not in set B (iv) True - Elements a and e both of set D are also in set A (v) False - Element f of set B is not in set A (vi) True - Elements b and d both of set C are in set A",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Take the set of natural numbers from 1 to 20 as universal set and show sets X and Y using Venn diagram: (i) X = {x | x ∈ N, and 7 < x < 15} (ii) Y = {y | y ∈ N, y is a prime number from 1 to 20}",
+                  "ans": "(i) U = {1, 2, 3, ..., 18, 19, 20}, X = {8, 9, 10, 11, 12, 13, 14} (ii) U = {1, 2, 3, ..., 18, 19, 20}, Y = {2, 3, 5, 7, 11, 13, 17, 19}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12}, P = {1, 3, 7, 10}. (i) Show the sets U, P and P' by Venn diagram (ii) Verify: (P')' = P",
+                  "ans": "(i) P' = {2, 8, 9, 11, 12} (ii) (P')' = {1, 3, 7, 10} = P, hence verified",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "A = {1, 3, 2, 7}, write three subsets of set A",
+                  "ans": "Three subsets of A can be: {1}, {1, 3}, {2, 7} (Note: Any three subsets from the 16 possible subsets can be written)",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Write the subset relation between the sets: P (residents of Pune), M (residents of Madhya Pradesh), I (residents of Indore), B (residents of India), H (residents of Maharashtra). Which set can be chosen as the universal set?",
+                  "ans": "Subset relations: P ⊆ H, P ⊆ B, I ⊆ M, I ⊆ B, M ⊆ B, H ⊆ B. The set B (residents of India) can be chosen as the universal set since all other sets are subsets of B.",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Which set of numbers could be the universal set for the given sets? (i) A = multiples of 5, B = multiples of 7, C = multiples of 12 (ii) P = integers which are multiples of 4, T = all even square numbers",
+                  "ans": "(i) Any of the sets N (natural numbers), W (whole numbers), or I (integers) can be the universal set (ii) Any of the sets N, W, or I can be the universal set for sets P and T",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                },
+                {
+                  "question": "Let all students of a class be the universal set. Let set A be students who secure 50% or more marks in Maths. Write the complement of set A.",
+                  "ans": "A' = {The set of students who secured less than 50% marks in Maths}",
+                  "youtubeVideoPath": "",
+                  "imgUrl": ""
+                }
+              ]
             }
           ]
         }
