@@ -90,7 +90,8 @@
                             "subQuestion": [
                                 {
                                     "question": "Match the following based on acceleration types and scenarios.",
-                                    "ans": [
+                                    "ans": "",
+                                    "subAns": [
                                         {
                                             "Column I": "Negative acceleration",
                                             "Column II": "The velocity of the object decreases",
@@ -107,10 +108,10 @@
                                             "Column III": "A vehicle is moving with a velocity of 25 m/s"
                                         }
                                     ],
-                                    "youtubeVideoPath": null,
-                                    "imgUrl": null
                                 }
-                            ]
+                            ],
+                            "youtubeVideoPath": null,
+                            "imgUrl": null
                         },
                         {
                             "questionsTitle": "Give scientific reasons",
