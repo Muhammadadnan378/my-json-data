@@ -1,0 +1,225 @@
+{
+  "list1": [
+    {
+      "subjectName": "Mathematics-2 9th",
+      "chapter part 1": [
+        {
+          "chapterName": "1. Distance on Number Line",
+          "questions": [
+            {
+              "questionsTitle": "Find the distances with the help of the number line given below",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) d(B, E)",
+                  "ans": "d(B, E) = 3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point B = 2, Coordinate of point E = 5 → 5 > 2 ⇒ d(B, E) = 5 – 2 = 3"
+                },
+                {
+                  "question": "(ii) d(J, A)",
+                  "ans": "d(J, A) = 3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point J = –2, Coordinate of point A = 1 → 1 > –2 ⇒ d(J, A) = 1 – (–2) = 1 + 2 = 3"
+                },
+                {
+                  "question": "(iii) d(P, C)",
+                  "ans": "d(P, C) = 7",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point P = –4, Coordinate of point C = 3 → 3 > –4 ⇒ d(P, C) = 3 – (–4) = 3 + 4 = 7"
+                },
+                {
+                  "question": "(iv) d(J, H)",
+                  "ans": "d(J, H) = 1",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point J = –2, Coordinate of point H = –1 → –1 > –2 ⇒ d(J, H) = –1 – (–2) = –1 + 2 = 1"
+                },
+                {
+                  "question": "(v) d(K, O)",
+                  "ans": "d(K, O) = 3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point K = –3, Coordinate of point O = 0 → 0 > –3 ⇒ d(K, O) = 0 – (–3) = 0 + 3 = 3"
+                },
+                {
+                  "question": "(vi) d(O, E)",
+                  "ans": "d(O, E) = 5",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point O = 0, Coordinate of point E = 5 → 5 > 0 ⇒ d(O, E) = 5 – 0 = 5"
+                },
+                {
+                  "question": "(vii) d(P, J)",
+                  "ans": "d(P, J) = 2",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point P = –4, Coordinate of point J = –2 → –2 > –4 ⇒ d(P, J) = –2 – (–4) = –2 + 4 = 2"
+                },
+                {
+                  "question": "(viii) d(Q, B)",
+                  "ans": "d(Q, B) = 7",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Coordinate of point Q = –5, Coordinate of point B = 2 → 2 > –5 ⇒ d(Q, B) = 2 – (–5) = 2 + 5 = 7"
+                }
+              ]
+            },
+            {
+              "questionsTitle": "If the coordinate of A is x and that of B is y, find d(A, B)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) x = 1, y = 7",
+                  "ans": "d(A, B) = 6",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = 7 – 1 = 6"
+                },
+                {
+                  "question": "(ii) x = 6, y = –2",
+                  "ans": "d(A, B) = 8",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = 6 – (–2) = 6 + 2 = 8"
+                },
+                {
+                  "question": "(iii) x = –3, y = 7",
+                  "ans": "d(A, B) = 10",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = 7 – (–3) = 7 + 3 = 10"
+                },
+                {
+                  "question": "(iv) x = –4, y = –5",
+                  "ans": "d(A, B) = 1",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = –4 – (–5) = –4 + 5 = 1"
+                },
+                {
+                  "question": "(v) x = –3, y = –6",
+                  "ans": "d(A, B) = 3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = –3 – (–6) = –3 + 6 = 3"
+                },
+                {
+                  "question": "(vi) x = 4, y = –8",
+                  "ans": "d(A, B) = 12",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(A, B) = 4 – (–8) = 4 + 8 = 12"
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Determine if points are collinear and their arrangement",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) d(P, R) = 7, d(P, Q) = 10, d(Q, R) = 3",
+                  "ans": "P–R–Q or Q–R–P",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(P, R) + d(Q, R) = 7 + 3 = 10 = d(P, Q). Therefore points P, Q and R are collinear. Point R lies between points P and Q."
+                },
+                {
+                  "question": "(ii) d(R, S) = 8, d(S, T) = 6, d(R, T) = 4",
+                  "ans": "Points R, S and T are not collinear",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(S, T) + d(R, T) = 6 + 4 = 10 ≠ 8 = d(R, S). Therefore points R, S and T are not collinear."
+                },
+                {
+                  "question": "(iii) d(A, B) = 16, d(A, C) = 9, d(B, C) = 7",
+                  "ans": "A–C–B or B–C–A",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(C, A) + d(B, C) = 9 + 7 = 16 = d(A, B). Therefore points A, B and C are collinear. Point C lies between points A and B."
+                },
+                {
+                  "question": "(iv) d(L, M) = 11, d(M, N) = 12, d(N, L) = 8",
+                  "ans": "Points M, N and L are not collinear",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(L, M) + d(N, L) = 11 + 8 = 19 ≠ 12 = d(M, N). Therefore points M, N and L are not collinear."
+                },
+                {
+                  "question": "(v) d(X, Y) = 15, d(Y, Z) = 7, d(X, Z) = 8",
+                  "ans": "X–Z–Y or Y–Z–X",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(Y, Z) + d(X, Z) = 7 + 8 = 15 = d(X, Y). Therefore points X, Y and Z are collinear. Point Z lies between points X and Y."
+                },
+                {
+                  "question": "(vi) d(D, E) = 5, d(E, F) = 8, d(D, F) = 6",
+                  "ans": "Points D, E and F are not collinear",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "d(D, E) + d(D, F) = 5 + 6 = 11 ≠ 8 = d(E, F). Therefore points D, E and F are not collinear."
+                }
+              ]
+            },
+            {
+              "questionsTitle": "On a number line, points A, B and C are such that d(A, C) = 10, d(C, B) = 8. Find d(A, B) considering all possibilities",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Find d(A, B) with given conditions",
+                  "ans": "d(A, B) = 18 or 2",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Possibility 1: C lies between A and B (A–C–B), then d(A, B) = d(A, C) + d(C, B) = 10 + 8 = 18. Possibility 2: B lies between A and C (A–B–C), then d(A, B) + d(B, C) = d(A, C), so d(A, B) = 10 – 8 = 2."
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Points X, Y, Z are collinear such that d(X, Y) = 17, d(Y, Z) = 8, find d(X, Z)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Find d(X, Z) with given collinear points",
+                  "ans": "d(X, Z) = 9 or 25",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "Possibility 1: Point Z lies between points X and Y, then d(X, Z) + d(Z, Y) = d(X, Y), so d(X, Z) = 17 – 8 = 9. Possibility 2: Point Y lies between points X and Z, then d(X, Z) = d(X, Y) + d(Y, Z) = 17 + 8 = 25."
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Sketch proper figure and write the answers to the following questions",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) If A–B–C and l(AC) = 11, l(BC) = 6.5, then find l(AB) = ?",
+                  "ans": "l(AB) = 4.5",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "l(AB) + l(BC) = l(AC), so l(AB) + 6.5 = 11, therefore l(AB) = 11 – 6.5 = 4.5"
+                },
+                {
+                  "question": "(ii) If R–S–T and l(ST) = 3.7, l(RS) = 2.5, then l(RT) = ?",
+                  "ans": "l(RT) = 6.2",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "l(RS) + l(ST) = l(RT), so 2.5 + 3.7 = l(RT), therefore l(RT) = 6.2"
+                },
+                {
+                  "question": "(iii) If X–Y–Z and l(XZ) = 3√7, l(XY) = √7, then l(YZ) = ?",
+                  "ans": "l(YZ) = 2√7",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": "l(XY) + l(YZ) = l(XZ), so √7 + l(YZ) = 3√7, therefore l(YZ) = 3√7 – √7 = 2√7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
