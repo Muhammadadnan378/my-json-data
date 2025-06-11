@@ -15,48 +15,56 @@
                   "ans": "d(B, E) = 3",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(ii) d(J, A)",
                   "ans": "d(J, A) = 3",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iii) d(P, C)",
                   "ans": "d(P, C) = 7",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iv) d(J, H)",
                   "ans": "d(J, H) = 1",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(v) d(K, O)",
                   "ans": "d(K, O) = 3",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(vi) d(O, E)",
                   "ans": "d(O, E) = 5",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(vii) d(P, J)",
                   "ans": "d(P, J) = 2",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(viii) d(Q, B)",
                   "ans": "d(Q, B) = 7",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -69,36 +77,42 @@
                   "ans": "d(A, B) = 6",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(ii) x = 6, y = –2",
                   "ans": "d(A, B) = 8",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iii) x = –3, y = 7",
                   "ans": "d(A, B) = 10",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iv) x = –4, y = –5",
                   "ans": "d(A, B) = 1",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(v) x = –3, y = –6",
                   "ans": "d(A, B) = 3",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(vi) x = 4, y = –8",
                   "ans": "d(A, B) = 12",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -111,36 +125,42 @@
                   "ans": "P–R–Q or Q–R–P",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(ii) d(R, S) = 8, d(S, T) = 6, d(R, T) = 4",
                   "ans": "Points R, S and T are not collinear",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iii) d(A, B) = 16, d(A, C) = 9, d(B, C) = 7",
                   "ans": "A–C–B or B–C–A",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iv) d(L, M) = 11, d(M, N) = 12, d(N, L) = 8",
                   "ans": "Points M, N and L are not collinear",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(v) d(X, Y) = 15, d(Y, Z) = 7, d(X, Z) = 8",
                   "ans": "X–Z–Y or Y–Z–X",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(vi) d(D, E) = 5, d(E, F) = 8, d(D, F) = 6",
                   "ans": "Points D, E and F are not collinear",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -153,6 +173,7 @@
                   "ans": "d(A, B) = 18 or 2",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -165,6 +186,7 @@
                   "ans": "d(X, Z) = 9 or 25",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -177,18 +199,21 @@
                   "ans": "l(AB) = 4.5",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(ii) If R–S–T and l(ST) = 3.7, l(RS) = 2.5, then l(RT) = ?",
                   "ans": "l(RT) = 6.2",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(iii) If X–Y–Z and l(XZ) = 3√7, l(XY) = √7, then l(YZ) = ?",
                   "ans": "l(YZ) = 2√7",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             }
