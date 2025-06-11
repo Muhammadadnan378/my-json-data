@@ -1,7 +1,7 @@
 {
   "list1": [
     {
-      "subjectName": "Political_Science_9th",
+      "subjectName": "Political Science 9th",
       "chapter part 1": [
         {
           "chapterName": "1.Post World War Political Developments",
@@ -42,18 +42,21 @@
                   "ans": "The statement is True.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(2) The world became unipolar due to the Cold War.",
                   "ans": "The statement is False.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(3) The policies of Mikhail Gorbachev gave an impetus to democratisation.",
                   "ans": "The statement is True.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -66,30 +69,35 @@
                   "ans": null,
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(2) Non-alignment:",
                   "ans": null,
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(3) Interdependence:",
                   "ans": null,
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(4) Bipolarisation:",
                   "ans": null,
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(5) Globalisation:",
                   "ans": null,
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
@@ -102,12 +110,14 @@
                   "ans": "The factors responsible for the end of the Cold War were as follows:",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 },
                 {
                   "question": "(2) What are the major changes that occur in the global politics after the end of the Cold War?",
                   "ans": "The end of the Cold War brought about further important changes in world politics:",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
+                  "subAns": null
                 }
               ]
             }
