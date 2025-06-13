@@ -4,7 +4,7 @@
       "subjectName": "Mathematics_2_9th",
       "chapter part 1": [
         {
-          "chapterName": "1. Distance on Number Line",
+          "chapterName": "1.1 Sets",
           "questions": [
             {
               "questionsTitle": "Find the distances with the help of the number line given below",
@@ -211,6 +211,404 @@
                 {
                   "question": "(iii) If X–Y–Z and l(XZ) = 3√7, l(XY) = √7, then l(YZ) = ?",
                   "ans": "l(YZ) = 2√7",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+          {
+          "chapterName": "1.2 Sets",
+          "questions": [
+            {
+              "questionsTitle": "Decide which of the following are equal sets and which are not? Justify your answer.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "A = {x|3x – 1 = 2}, B = {x | x is a natural number but x is neither prime nor composite}, C = {x |x ∈ N, x < 2}",
+                  "ans": "A = {1}, B = {1}, C = {0, 1}; A = B, B ≠ C, A ≠ C; So, A and B are equal sets but B and C and A and C are not equal sets.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Decide whether set A and B are equal sets. Give reason for your answer.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "A = Even prime numbers, B = {x| 7x – 1 = 13}",
+                  "ans": "A = {2}, B = {2}; A = B; Set A and set B are equal sets.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Which of the following are empty sets? Why?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. A = {a |a is a natural number smaller than zero}",
+                  "ans": "A = {}; A is an empty set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. B = {x|x² = 0}",
+                  "ans": "B = {0}; B is not an empty set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. C = {x|5x – 2 = 0, x ∈ N}",
+                  "ans": "C = {}; C is an empty set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Write with reasons, which of the following sets are finite or infinite.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. A = {x|x < 10, x is a natural number}",
+                  "ans": "A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; A is a finite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. B = {y |y< -1, y is an integer}",
+                  "ans": "B = {… -5, -4, -3, -2}; B is an infinite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. C = Set of students of class 9 from your school.",
+                  "ans": "C is a finite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. Set of people from your village.",
+                  "ans": "D is a finite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. Set of apparatus in laboratory",
+                  "ans": "E is a finite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vi. Set of whole numbers",
+                  "ans": "W = {0, 1, 2, 3, …}; W is an infinite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vii. Set of rational numbers",
+                  "ans": "Q = {p/q | p, q ∈ I, q ≠ 0}; Q is an infinite set.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+{
+          "chapterName": "1.3 Practice Set",
+          "questions": [
+            {
+              "questionsTitle": "If A = {a, b, c, d, e}, B = {c, d, e, f}, C = {b, d} and D = {a, e}. then which of the following statements are true and which are false?",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506615249_122117105696866734_4804942318071256680_n.jpg",
+              "subQuestion": [
+                {
+                  "question": "i. C ⊆ B",
+                  "ans": "False",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. A ⊆ D",
+                  "ans": "False",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. D ⊆ B",
+                  "ans": "False",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. D ⊆ A",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. B ⊆ A",
+                  "ans": "False",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vi. C ⊆ A",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Take the set of natural numbers from 1 to 20 as universal set and show set X and Y using Venn diagram.",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506044995_122117110082866734_6598699907215708214_n.jpg",
+              "subQuestion": [
+                {
+                  "question": "X = {x | x ∈ ℕ, and 7 < x < 15}",
+                  "ans": "X = {8, 9, 10, 11, 12, 13, 14}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Y = {y | y ∈ ℕ, y is prime number from 1 to 20}",
+                  "ans": "Y = {2, 3, 5, 7, 11, 13, 17, 19}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12}, P = {1, 3, 7, 10}, show U, P and P'. Verify (P’)' = P",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506628632_122117110376866734_5990773175068177833_n.jpg",
+              "subQuestion": [
+                {
+                  "question": "P' = U – P",
+                  "ans": "P' = {2, 8, 9, 11, 12}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(P’)' = P",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "A = {1, 3, 2, 7} then write any three subsets of A.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Three subsets",
+                  "ans": "B = {1, 2, 3}, C = {1, 3}, D = {2, 3, 7}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Write the subset relation and universal set.",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506530791_122117110544866734_2144686920192227758_n.jpg",
+              "subQuestion": [
+                {
+                  "question": "Subset relation",
+                  "ans": "I ⊆ M, P ⊆ H, M ⊆ B, H ⊆ B",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Universal Set",
+                  "ans": "B is the universal set",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Which set of numbers could be the universal set?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "A = multiples of 5, B = multiples of 7, C = multiples of 12",
+                  "ans": "Universal Set = ℤ (set of all integers)",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "P = multiples of 4, T = even square numbers",
+                  "ans": "Universal Set = ℤ (set of all integers)",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Let all the students of a class is a Universal set. Let set A be the students who secure 50% or more marks in Maths.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Complement of set A",
+                  "ans": "A’ = Set of all students who secured less than 50% marks in Maths",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "1.4 Sets - Practice Set",
+          "questions": [
+            {
+              "questionsTitle": "Find n(B) given n(A) = 15, n(A ∪ B) = 29, n(A ∩ B) = 7",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Q1",
+                  "ans": "n(B) = 21",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find number of students who do not drink tea or coffee",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Q2",
+                  "ans": "Number of students who do not drink tea or coffee = 5",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Find number of students who passed at least one subject",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Q3",
+                  "ans": "Number of students who passed at least in one of the subject = 70",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Survey on hobbies of students",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) How many students do not have any of the two hobbies?",
+                  "ans": "20",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(ii) How many of them follow the hobby of rock climbing only?",
+                  "ans": "20",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(iii) How many students follow the hobby of sky watching only?",
+                  "ans": "70",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Observe Venn diagram and write sets",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. A",
+                  "ans": "{x, y, z, m, n}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. B",
+                  "ans": "{p, q, r, m, n}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. A ∪ B",
+                  "ans": "{x, y, z, m, n, p, q, r}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. U",
+                  "ans": "{x, y, z, m, n, p, q, r, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. A’",
+                  "ans": "{p, q, r, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vi. B’",
+                  "ans": "{x, y, z, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vii. (A ∪ B)’",
+                  "ans": "{s, t}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
