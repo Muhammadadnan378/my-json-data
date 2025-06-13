@@ -276,6 +276,165 @@
               ]
             }
           ]
+        },
+        {
+          "chapterName": "1.3 Sets",
+          "questions": [
+            {
+              "questionsTitle": "If A = {a, b, c, d, e}, B = {c, d, e, f}, C = {b, d} and D = {a, e}. then which of the following statements are true and which are false?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. C ⊆ B",
+                  "ans": "False. Every element of set C is not an element of set B.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506615249_122117105696866734_4804942318071256680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7RxaNo9p6a8Q7kNvwHoOpl0&_nc_oc=AdmYXYEaZbq4oSW_86oqgtm2-t41N93JnWB2DAAcW1W84AyC5CAnOoYMH1cddu7-p48&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=r0Ava0XqwpyEcTM6XoF_CQ&oh=00_AfOVt4NJqFz3SaJcErR3xfpcLRa_j8WrCKa4LEVNC3R42Q&oe=6851A058",
+                  "subAns": null
+                },
+                {
+                  "question": "ii. A ⊆ D",
+                  "ans": "False. Every element of set A is not an element of set D.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. D ⊆ B",
+                  "ans": "False. Every element of set D is not an element of set B.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. D ⊆ A",
+                  "ans": "True. Every element of set D is also an element of set A.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. B ⊆ A",
+                  "ans": "False. Every element of set B is not an element of set A.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vi. C ⊆ A",
+                  "ans": "True. Every element of set C is also an element of set A.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Take the set of natural numbers from 1 to 20 as universal set and show set X and Y using Venn diagram.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. X = {x | x ∈ ℕ, and 7 < x < 15}",
+                  "ans": "X = {8, 9, 10, 11, 12, 13, 14}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506044995_122117110082866734_6598699907215708214_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NWS3Ii3Y0A4Q7kNvwE-o20h&_nc_oc=AdnahZActodQktHClCdHR-ZK54sg-sU8CRL-KbvMf3U53PTbCml7Uxtqh3oENGlpywI&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=Xr0Qd03rxcVLk6N2QBJzew&oh=00_AfO9Km3VP27aWP5nOIPfA0Kh3_Cigcm5oJ0huKJGq1KnOA&oe=6851B654",
+                  "subAns": null
+                },
+                {
+                  "question": "ii. Y = {y | y ∈ ℕ, y is prime number from 1 to 20}",
+                  "ans": "Y = {2, 3, 5, 7, 11, 13, 17, 19}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12} P = {1, 3, 7, 10} then (i) show the sets U, P and P' by Venn diagram. (ii) Verify (P')' = P",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) show the sets U, P and P' by Venn diagram",
+                  "ans": "P' = {2, 8, 9, 11, 12}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506628632_122117110376866734_5990773175068177833_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kTdJop3pa2AQ7kNvwFlyUZN&_nc_oc=AdmncCJ6eiMw9ydGRnCTAdSCPUNiEuhgApFTAw4uFxLObCw4EE1ozK4yM79NvlJhQCU&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=NkJkan0iAAd1n-MlLc9D1A&oh=00_AfPxHZE3nBOCZwt0SOq4JShpjpHZ3xFp0_eS4tbG8uLgag&oe=6851B8F4",
+                  "subAns": null
+                },
+                {
+                  "question": "(ii) Verify (P')' = P",
+                  "ans": "(P')' = {1, 3, 7, 10} = P. Hence, (P')' = P.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "A = {1, 3, 2, 7} then write any three subsets of A.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Write any three subsets of A",
+                  "ans": "B = {1, 2, 3}, C = {1, 3} and D = {2, 3, 7} are three subsets of A. Also, A and ϕ are subsets of A.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "P is the set of all residents in Pune. M is the set of all residents in Madhya Pradesh. I is the set of all residents in Indore. B is the set of all residents in India. H is the set of all residents in Maharashtra.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(i) Write the subset relation between the sets.",
+                  "ans": "P ⊆ H ⊆ B and I ⊆ M ⊆ B",
+                  "youtubeVideoPath": null,
+                  "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506530791_122117110544866734_2144686920192227758_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OTJ_Hjzv3VUQ7kNvwEi57W4&_nc_oc=AdmyYz1thIkAp3296GT-U59eADQ8M0vXe55SwCVqzFKAlBupKr54EaFQA-ACOoak1vc&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=ERSCAYTy2Z44ZhEHlPa4sg&oh=00_AfNYTWlF1N-4LtBMBu6TSvFpPJp7ObGTCX9Kb3p20UEnRA&oe=6851A6ED",
+                  "subAns": null
+                },
+                {
+                  "question": "(ii) Which set can be the universal set for above sets?",
+                  "ans": "Set B can serve as the universal set for above sets.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Which set of numbers could be the universal set for the sets given below?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "A = set of multiples of 5, B = set of multiples of 7, C = set of multiples of 12",
+                  "ans": "Set of all integers I = {………, -2, -1, 0, 1, 2,………} can serve as the universal set for the sets A, B and C.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "P = set of integers which multiples of are 4. T = set of all even square numbers.",
+                  "ans": "Set of all integers I = {………, -2, -1, 0, 1, 2,………} can serve as the universal set for the sets P and T.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Let all the students of a class is a Universal set. Let set A be the students who secure 50% or more marks in Maths. Then write the complement of set A.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Write the complement of set A",
+                  "ans": "A' = Set of all students who do not secure 50% or more marks in Maths or A' = Set of all students who secured less than 50% marks in Maths. ∴ A' = U – A",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
         }
       ]
     }
