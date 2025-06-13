@@ -285,42 +285,42 @@
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "i. C ⊆ B",
+                  "question": "C ⊆ B",
                   "ans": "False. Every element of set C is not an element of set B.",
                   "youtubeVideoPath": null,
                   "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506615249_122117105696866734_4804942318071256680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7RxaNo9p6a8Q7kNvwHoOpl0&_nc_oc=AdmYXYEaZbq4oSW_86oqgtm2-t41N93JnWB2DAAcW1W84AyC5CAnOoYMH1cddu7-p48&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=r0Ava0XqwpyEcTM6XoF_CQ&oh=00_AfOVt4NJqFz3SaJcErR3xfpcLRa_j8WrCKa4LEVNC3R42Q&oe=6851A058",
                   "subAns": null
                 },
                 {
-                  "question": "ii. A ⊆ D",
+                  "question": "A ⊆ D",
                   "ans": "False. Every element of set A is not an element of set D.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "iii. D ⊆ B",
+                  "question": "D ⊆ B",
                   "ans": "False. Every element of set D is not an element of set B.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "iv. D ⊆ A",
+                  "question": "D ⊆ A",
                   "ans": "True. Every element of set D is also an element of set A.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "v. B ⊆ A",
+                  "question": "B ⊆ A",
                   "ans": "False. Every element of set B is not an element of set A.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "vi. C ⊆ A",
+                  "question": "C ⊆ A",
                   "ans": "True. Every element of set C is also an element of set A.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
@@ -333,14 +333,14 @@
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "i. X = {x | x ∈ ℕ, and 7 < x < 15}",
+                  "question": "X = {x | x ∈ ℕ, and 7 < x < 15}",
                   "ans": "X = {8, 9, 10, 11, 12, 13, 14}",
                   "youtubeVideoPath": null,
                   "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506044995_122117110082866734_6598699907215708214_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=NWS3Ii3Y0A4Q7kNvwE-o20h&_nc_oc=AdnahZActodQktHClCdHR-ZK54sg-sU8CRL-KbvMf3U53PTbCml7Uxtqh3oENGlpywI&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=Xr0Qd03rxcVLk6N2QBJzew&oh=00_AfO9Km3VP27aWP5nOIPfA0Kh3_Cigcm5oJ0huKJGq1KnOA&oe=6851B654",
                   "subAns": null
                 },
                 {
-                  "question": "ii. Y = {y | y ∈ ℕ, y is prime number from 1 to 20}",
+                  "question": "Y = {y | y ∈ ℕ, y is prime number from 1 to 20}",
                   "ans": "Y = {2, 3, 5, 7, 11, 13, 17, 19}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
@@ -349,18 +349,18 @@
               ]
             },
             {
-              "questionsTitle": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12} P = {1, 3, 7, 10} then (i) show the sets U, P and P' by Venn diagram. (ii) Verify (P')' = P",
+              "questionsTitle": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12} P = {1, 3, 7, 10} then\n(1) show the sets U, P and P' by Venn diagram.\n(2) Verify (P')' = P",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "(i) show the sets U, P and P' by Venn diagram",
+                  "question": "show the sets U, P and P' by Venn diagram",
                   "ans": "P' = {2, 8, 9, 11, 12}",
                   "youtubeVideoPath": null,
                   "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506628632_122117110376866734_5990773175068177833_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kTdJop3pa2AQ7kNvwFlyUZN&_nc_oc=AdmncCJ6eiMw9ydGRnCTAdSCPUNiEuhgApFTAw4uFxLObCw4EE1ozK4yM79NvlJhQCU&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=NkJkan0iAAd1n-MlLc9D1A&oh=00_AfPxHZE3nBOCZwt0SOq4JShpjpHZ3xFp0_eS4tbG8uLgag&oe=6851B8F4",
                   "subAns": null
                 },
                 {
-                  "question": "(ii) Verify (P')' = P",
+                  "question": "Verify (P')' = P",
                   "ans": "(P')' = {1, 3, 7, 10} = P. Hence, (P')' = P.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
@@ -382,18 +382,18 @@
               ]
             },
             {
-              "questionsTitle": "P is the set of all residents in Pune. M is the set of all residents in Madhya Pradesh. I is the set of all residents in Indore. B is the set of all residents in India. H is the set of all residents in Maharashtra.",
+              "questionsTitle": "P is the set of all residents in Pune.\nM is the set of all residents in Madhya Pradesh.\nI is the set of all residents in Indore.\nB is the set of all residents in India.\nH is the set of all residents in Maharashtra.",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "(i) Write the subset relation between the sets.",
+                  "question": "Write the subset relation between the sets.",
                   "ans": "P ⊆ H ⊆ B and I ⊆ M ⊆ B",
                   "youtubeVideoPath": null,
                   "imgUrl": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506530791_122117110544866734_2144686920192227758_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=OTJ_Hjzv3VUQ7kNvwEi57W4&_nc_oc=AdmyYz1thIkAp3296GT-U59eADQ8M0vXe55SwCVqzFKAlBupKr54EaFQA-ACOoak1vc&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=ERSCAYTy2Z44ZhEHlPa4sg&oh=00_AfNYTWlF1N-4LtBMBu6TSvFpPJp7ObGTCX9Kb3p20UEnRA&oe=6851A6ED",
                   "subAns": null
                 },
                 {
-                  "question": "(ii) Which set can be the universal set for above sets?",
+                  "question": "Which set can be the universal set for above sets?",
                   "ans": "Set B can serve as the universal set for above sets.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
@@ -406,14 +406,14 @@
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "A = set of multiples of 5, B = set of multiples of 7, C = set of multiples of 12",
+                  "question": "A = set of multiples of 5\nB = set of multiples of 7\nC = set of multiples of 12",
                   "ans": "Set of all integers I = {………, -2, -1, 0, 1, 2,………} can serve as the universal set for the sets A, B and C.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "P = set of integers which multiples of are 4. T = set of all even square numbers.",
+                  "question": "P = set of integers which multiples of are 4.\nT = set of all even square numbers.",
                   "ans": "Set of all integers I = {………, -2, -1, 0, 1, 2,………} can serve as the universal set for the sets P and T.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
@@ -427,7 +427,7 @@
               "subQuestion": [
                 {
                   "question": "Write the complement of set A",
-                  "ans": "A' = Set of all students who do not secure 50% or more marks in Maths or A' = Set of all students who secured less than 50% marks in Maths. ∴ A' = U – A",
+                  "ans": "A' = Set of all students who do not secure 50% or more marks in Maths or A' = Set of all students who secured less than 50% marks in Maths.\n∴ A' = U – A",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -435,7 +435,8 @@
               ]
             }
           ]
-        },{
+        },
+        {
           "chapterName": "1.4 Sets",
           "questions": [
             {
@@ -444,7 +445,7 @@
               "subQuestion": [
                 {
                   "question": "Find n(B)",
-                  "ans": "Given: n(A ∪ B) = 29, n(A) = 15 and n (A ∩ B) = 7. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ 29 = 15 + n(B) – 7. ⇒ n(B) = 29 - 15 + 7. ⇒ n(B) = 21",
+                  "ans": "Given: n(A ∪ B) = 29, n(A) = 15 and n (A ∩ B) = 7.\nAs we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B).\n⇒ 29 = 15 + n(B) – 7.\n⇒ n(B) = 29 - 15 + 7.\n⇒ n(B) = 21",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -457,7 +458,7 @@
               "subQuestion": [
                 {
                   "question": "Find the number of students who do not drink tea or coffee",
-                  "ans": "Given: n(A) = 80, n(B) = 60 and n (A ∩ B) = 20. Total number of students = 125. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 80 + 60 - 20 = 120. Then, the number of students who do not drink tea or coffee = 125 – 120 = 5",
+                  "ans": "Given: n(A) = 80, n(B) = 60 and n (A ∩ B) = 20.\nTotal number of students = 125.\nAs we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B).\n⇒ n (A ∪ B) = 80 + 60 - 20 = 120.\nThen, the number of students who do not drink tea or coffee = 125 – 120 = 5",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -470,7 +471,7 @@
               "subQuestion": [
                 {
                   "question": "Find the number of students who passed at least in one of the subjects",
-                  "ans": "Given: n(A) = 50, n(B) = 60 and n (A ∩ B) = 40. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 50 + 60 - 40 = 70. Hence, the number of students who passed in at least one of the subject = 70",
+                  "ans": "Given: n(A) = 50, n(B) = 60 and n (A ∩ B) = 40.\nAs we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B).\n⇒ n (A ∪ B) = 50 + 60 - 40 = 70.\nHence, the number of students who passed in at least one of the subject = 70",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -483,7 +484,7 @@
               "subQuestion": [
                 {
                   "question": "How many students do not have any of the two hobbies?",
-                  "ans": "Given: n(A) = 130, n(B) = 180 and n (A ∩ B) = 110. Total number of students = 220. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 130 + 180 - 110 = 200. The number of students who do not have any of the two hobbies = 220 – 200 = 20",
+                  "ans": "Given: n(A) = 130, n(B) = 180 and n (A ∩ B) = 110.\nTotal number of students = 220.\nAs we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B).\n⇒ n (A ∪ B) = 130 + 180 - 110 = 200.\nThe number of students who do not have any of the two hobbies = 220 – 200 = 20",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -509,49 +510,49 @@
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "i. A",
+                  "question": "A",
                   "ans": "A = {x, y, z, m, n}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "ii. B",
+                  "question": "B",
                   "ans": "B = {p, q, r, m, n}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "iii. A ∪ B",
+                  "question": "A ∪ B",
                   "ans": "(A ∪ B) = {x, y, z, m, n, p, q, r}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "iv. U",
+                  "question": "U",
                   "ans": "U = {x, y, z, m, n, p, q, r, s, t}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "v. A'",
+                  "question": "A'",
                   "ans": "A' = {p, q, r, s, t}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "vi. B'",
+                  "question": "B'",
                   "ans": "B' = {x, y, z, s, t}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "vii. (A ∪ B)'",
+                  "question": "(A ∪ B)'",
                   "ans": "(A ∪ B)' = {s, t}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
