@@ -561,7 +561,155 @@
               ]
             }
           ]
-        }
+        },
+        {
+          "chapterName": "2. Real Numbers",
+          "questions": [
+            {
+              "questionsTitle": "Practice set 2.1",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Classify the decimal form of the given rational numbers into terminating and non-terminating recurring type",
+                  "ans": "Classification based on division results:\n∵ The division is exact ∴ it is a terminating decimal.\n∵ The division never ends and the digits '18' is repeated endlessly ∴ it is a non-terminating recurring type decimal.\n∵ The division is exact ∴ it is a terminating decimal.\n∵ The division is exact ∴ it is a terminating decimal.\n∵ The division never ends and the digit '3' is repeated endlessly ∴ it is a non-terminating recurring type decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write the following rational numbers in decimal form.",
+                  "ans": "Convert each rational number to decimal form by performing division.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write the following rational numbers in p/q form.",
+                  "ans": "For 0.666...: Let x = 0.666...\n⇒ 10x = 6.66666......\nNow, 10x - x = 6.66 – 0.6666\n⇒9x = 6\n⇒ x = 6/9 = 2/3\n\nFor 0.3737...: Let x = 0.3737...\n⇒ 100x = 37.3737......\nNow, 100x - x = 37.3737 – 0.3737\n⇒ 99x = 37\n⇒ x = 37/99\n\nFor 3.1717...: Let x = 3.1717...\n⇒ 100x = 317.1717......\nNow, 100x - x = 317.1717 – 3.1717\n⇒ 99x = 314\n⇒ x = 314/99\n\nFor 15.8989...: Let x = 15.8989...\n⇒ 100x = 1589.8989......\nNow, 100x - x = 1589.8989 – 15.8989\n⇒ 99x = 1574\n⇒ x = 1574/99\n\nFor 2.514514...: Let x = 2.514514...\n⇒ 1000x = 2514.514514......\nNow, 1000x - x = 2514.514514 – 2.514514\n⇒ 999x = 2512\n⇒ x = 2512/999",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Show that 4√2 is an irrational number.",
+                  "ans": "Let us assume that 4√2 is a rational number\n4√2 = a/b where, b≠0 and a, b are integers\n√2 = a/4b\n∵ a, b are integers ∴ 4b is also integer\n∴ a/4b is rational which cannot be possible\n∵ √2 which is an irrational number\n∵ it is contradicting our assumption\n∴ the assumption was wrong\nHence, 4√2 is an irrational number",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Prove that 3 + √5 is an irrational number.",
+                  "ans": "Let us assume that 3 + √5 is a rational number\n3 + √5 = a/b where, b≠0 and a, b are integers\n√5 = a/b - 3 = (a-3b)/b\n∵ a, b are integers ∴ a – 3b is also integer\n∴ (a-3b)/b is rational\n∵ it is contradicting our assumption ∴ the assumption was wrong\nHence, 3 + √5 is an irrational number",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Represent the numbers √5 and √10 on a number line.",
+                  "ans": "For √5: By Pythagoras theorem,\n(√5)² = 2² + 1²\n⇒ (√5)² = 4 + 1\nFirst mark 0 and 2 on the number line. Then, draw a perpendicular of 1 unit from 2. And\nJoin the top of perpendicular and 0. This line would be equal to √5. Now measure the\nline with compass and mark an arc on the number line with the same measurement.\nThis point is √5.\n\nFor √10: By Pythagoras theorem,\n(√10)² = 3² + 1²\n⇒ (√10)² = 9 + 1\nFirst mark 0 and 3 on the number line. Then, draw a perpendicular of 1 unit from 3. And\nJoin the top of perpendicular and 0. This line would be equal to √10. Now measure the\nline with compass and mark an arc on the number line with the same measurement.\nThis point is √10.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write any three rational numbers between the two numbers given below.\n0.3 and -0.5",
+                  "ans": "0.3 and -0.5\nTo find a rational number x between two rational numbers a and b, we use x = (a+b)/2\nTherefore, to find rational number x (let) between 0.3 and -0.5\nx = (0.3 + (-0.5))/2 = -0.2/2 = -0.1\n\nNow if we find a rational number between -0.1 and 0.3 it will also be between 0.3 and -0.5\nsince -0.1 lies between 0.3 and -0.5.\ny = (-0.1 + 0.3)/2 = 0.2/2 = 0.1\n\nNow if we find a rational number between -0.5 and -0.1 it will also be between 0.3 and -0.5\nsince -0.1 lies between 0.3 and -0.5.\nz = (-0.5 + (-0.1))/2 = -0.6/2 = -0.3\n\nHence the numbers are -0.3, -0.1 and 0.1",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write any three rational numbers between the two numbers given below.\n-2.3 and -2.33",
+                  "ans": "-2.3 and -2.33\nTo find a rational number x between two rational numbers a and b, we use x = (a+b)/2\nTherefore, to find rational number x (let) between -2.3 and -2.33\nx = (-2.3 + (-2.33))/2 = -4.63/2 = -2.315\n\nNow if we find a rational number between -2.3 and -2.315 it will also\nbe between -2.3 and -2.33 since -2.315 lies between -2.3 and -2.33\ny = (-2.3 + (-2.315))/2 = -4.615/2 = -2.3075\n\nNow if we find a rational number between -2.315 and -2.33 it will\nalso be between -2.3 and -2.33 since -2.315 lies between -2.3 and -2.33\nz = (-2.315 + (-2.33))/2 = -4.645/2 = -2.3225\n\nHence the numbers are -2.3225, -2.3075 and -2.315",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write any three rational numbers between the two numbers given below.\n5.2 and 5.3",
+                  "ans": "5.2 and 5.3\nTo find a rational number x between two rational numbers a and b, we use x = (a+b)/2\nTherefore, to find rational number x (let) between 5.2 and 5.3\nx = (5.2 + 5.3)/2 = 10.5/2 = 5.25\n\nNow if we find a rational number between 5.2 and 5.25 it will also be\nbetween 5.2 and 5.3 since 5.25 lies between 5.2 and 5.3\ny = (5.2 + 5.25)/2 = 10.45/2 = 5.225\n\nNow if we find a rational number between 5.25 and 5.3 it will also be\nbetween 5.2 and 5.3 since 5.25 lies between 5.2 and 5.3\nz = (5.25 + 5.3)/2 = 10.55/2 = 5.275\n\nHence the numbers are 5.225, 5.25 and 5.275",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Write any three rational numbers between the two numbers given below.\n-4.5 and 4.6",
+                  "ans": "-4.5 and 4.6\nTo find a rational number x between two rational numbers a and b, we use x = (a+b)/2\nTherefore, to find rational number x (let) between -4.5 and 4.6\nx = (-4.5 + 4.6)/2 = 0.1/2 = 0.05\n\nNow if we find a rational number between -4.5 and 0.05 it will also be\nbetween -4.5 and 4.6 since 0.05 lies between -4.5 and 4.6\ny = (-4.5 + 0.05)/2 = -4.45/2 = -2.225\n\nNow if we find a rational number between 0.05 and 4.6 it will also be\nbetween -4.5 and 4.6 since 0.05 lies between -4.5 and 4.6\nz = (0.05 + 4.6)/2 = 4.65/2 = 2.325\n\nHence the numbers are -2.225, 0.05 and 2.325",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Practice set 2.3",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "State the order of the surds given below.",
+                  "ans": "In ⁿ√a, n is called the order of the surd.\nTherefore,\nIn ³√7, the order of surd is 3.\nIn ⁵√x, the order of surd is 5.\nIn ⁴√17, the order of surd is 4.\nIn √19, the order of surd is 2.\nIn ³√12, the order of surd is 3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "State which of the following are surds. Justify.",
+                  "ans": "Surds are numbers left in root form (√) to express its exact value. It has an\ninfinite number of non-recurring decimals. Therefore, surds are irrational numbers.\nTherefore,\n√7: It is a surd ∵ it cannot be expressed as a rational number.\n√12: It is a surd ∵ it cannot be expressed as a rational number.\n∛27: It is a surd ∵ it cannot be expressed as a rational number.\n√256 = √16² = 16: It is not a surd ∵ it is a rational number.\n∛8 = ∛2³ = 2: It is not a surd ∵ it is a rational number.\n√0.04: It is a surd ∵ it cannot be expressed as a rational number.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Classify the given pair of surds into like surds and unlike surds.",
+                  "ans": "Two or more surds are said to be similar or like surds if they have the same surd-factor.\nAnd, Two or more surds are said to be dissimilar or unlike when they are not similar.\nTherefore,\n√52, 5√13:\n√52 = √(2×2×13) = 2√13\n5√13\n∵ both surds have same surd-factor i.e., √13.\n∴ they are like surds.\n\n√68, 5√3:\n√68 = √(2×2×17) = 2√17\n5√3\n∵ both surds have different surd-factors √17 and √3.\n∴ they are unlike surds.\n\n4√18, 7√2:\n4√18 = 4√(2×3×3) = 4×3√2 = 12√2\n7√2\n∵ both surds have same surd-factor i.e., √2.\n∴ they are like surds.\n\n19√12, 6√3:\n19√12 = 19√(2×2×3) = 19×2√3 = 38√3\n6√3\n∵ both surds have same surd-factor i.e., √3.\n∴ they are like surds.\n\n5√22, 7√33:\n∵ both surds have different surd-factors √22 and √33.\n∴ they are unlike surds.\n\n5√5, √75:\n5√5\n√75 = √(5×5×3) = 5√3\n∵ both surds have different surd-factors √5 and √3.\n∴ they are unlike surds.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Simplify the following surds.",
+                  "ans": "√27 = √(3×3×3) = 3√3\n√50 = √(2×5×5) = 5√2\n√250 = √(2×5×5×5) = 5√10\n√112 = √(2×2×2×2×7) = 4√7\n√168 = √(2×2×2×3×7) = 2√42",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Compare the following pair of surds.",
+                  "ans": "7√2, 5√3:\n(7√2)² = 7 × 7 × √2 × √2 = 49 × 2 = 98\n(5√3)² = 5 × 5 × √3 × √3 = 25 × 3 = 75\nClearly, 98 > 75\n∴ 7√2 > 5√3\n\n√247, √274:\n(√247)² = 247\n(√274)² = 274\nClearly, 247 < 274\n∴ √247 < √274\n\n2√7, √28:\n(2√7)² = 2 × 2 × √7 × √7 = 4 × 7 = 28\n(√28)² = 28\nClearly, 28 = 28\n∴ 2√7 = √28\n\n5√5, 7√2:\n(5√5)² = 5 × 5 × √5 × √5 = 25 × 5 = 125\n(7√2)² = 7 × 7 × √2 × √2 = 49 × 2 = 98\nClearly, 125 > 98\n∴ 5√5 > 7√2\n\n4√42, 9√2:\n(4√42)² = 4 × 4 × √42 × √42 = 16 × 42 = 672\n(9√2)² = 9 × 9 × √2 × √2 = 81 × 2 = 162\nClearly, 672 > 162\n∴ 4√42 > 9√2\n\n5√3, 9:\n(5√3)² = 5 × 5 × √3 × √3 = 25 × 3 = 75\n(9)² = 9 × 9 = 81\nClearly, 75 < 81\n∴ 5√3 < 9\n\n7, 2√5:\n(2√5)² = 2 × 2 × √5 × √5 = 4 × 5 = 20\n(7)² = 7 × 7 = 49\nClearly, 49 > 20\n∴ 7 > 2√5",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Simplify.",
+                  "ans": "5√3 + 8√3:\n5√3 + 8√3 = (5 + 8)√3 = 13√3\n\n9√5 – 4√5 + √125:\n9√5 – 4√5 + √125 = 9√5 – 4√5 + √(5 × 5 × 5)\n= 9√5 – 4√5 + 5√5\n= (9 – 4 + 5)√5 = 10√5\n\n7√48 – √27 – √3:\n7√48 – √27 – √3 = 7√(2 × 2 × 2 × 2 × 3) – √(3 × 3 × 3) – √3\n= 7×4√3 – 3√3 – √3\n= 28√3 – 3√3 – √3\n= (28 – 3 – 1)√3 = 24√3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Multiply and write the answer in the simplest form.",
+                  "ans": "3√12 × √18:\n3√12 × √18 = 3√(2 × 2 × 3) × √(2 × 3 × 3)\n= 3 × 2√3 × 3√2 = 6√3 × 3√2 = 18√6\n\n3√12 × 7√15:\n3√12 × 7√15 = 3√(2 × 2 × 3) × 7√(3 × 5)\n= 3 × 2√3 × 7√(3 × 5)\n= 3 × 2 × 7 × √(3 × 3 × 5)\n= 3 × 2 × 7 × 3√5 = 126√5\n\n3√8 × √5:\n3√8 × √5 = 3√(2 × 2 × 2) × √5\n= 3 × 2√2 × √5 = 3 × 2 ×√(2 × 5) = 6√10\n\n5√8 × 2√8:\n5√8 × 2√8 = 5√(2 × 2 × 2) × 2√(2 × 2 × 2)\n= 5 × 2√2 × 2 × 2√2\n= 5 × 2 × 2 × 2 ×√(2 × 2)\n= 5 × 2 × 2 × 2 × 2 = 80",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Divide, and write the answer in simplest form.",
+                  "ans": "√98 ÷ √2:\n√98 ÷ √2 = √(98/2) = √49 = 7\n\n√125 ÷ √50:\n√125 ÷ √50 = √(125/50) = √(5/2) = √5/√2\n\n√54 ÷ √27:\n√54 ÷ √27 = √(54/27) = √2\n\n√310 ÷ √5:\n√310 ÷ √5 = √(310/5) = √62",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Rationalize the denominator.",
+                  "ans": "We know that √5 × √5 = 5, ∴ to rationalize the denominator of 3/√5 multiply\nboth numerator and denominator by √5.\n3/√5 = (3×√5)/(√5×√5) = 3√5/5\n\nWe know that √14 × √14 = 14, ∴ to rationalize the denominator of 4/√14 multiply both\nnumerator and denominator by √14.\n4/√14 = (4×√14)/(√14×√14) = 4√14/14 = 2√14/7\n\nWe know that √7 × √7 = 7, ∴ to rationalize the denominator of 15/√7 multiply both\nnumerator and denominator by √7.\n15/√7 = (15×√7)/(√7×√7) = 15√7/7\n\nWe know that √3 × √3 = 3, ∴ to rationalize the denominator of 12/√3 multiply both\nnumerator and denominator by √3.\n12/√3 = (12×√3)/(√3×√3) = 12√3/3 = 4√3\n\nWe know that √3 × √3 = 3, ∴ to rationalize the denominator of 15/(4√3) multiply both\nnumerator and denominator by √3.\n15/(4√3) = (15×√3)/(4√3×√3) = 15√3/(4×3) = 15√3/12 = 5√3/4",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
       ]
     }
   ]
