@@ -435,6 +435,132 @@
               ]
             }
           ]
+        },
+        {
+          "chapterName": "1.4 Sets",
+          "questions": [
+            {
+              "questionsTitle": "If n(A) = 15, n(A ∪ B) = 29, n (A ∩ B) = 7 then n (B) = ?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Find n(B)",
+                  "ans": "Given: n(A ∪ B) = 29, n(A) = 15 and n (A ∩ B) = 7. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ 29 = 15 + n(B) – 7. ⇒ n(B) = 29 - 15 + 7. ⇒ n(B) = 21",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "In a hostel there are 125 students, out of which 80 drink tea, 60 drink coffee and 20 drink tea and coffee both. Find the number of students who do not drink tea or coffee.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Find the number of students who do not drink tea or coffee",
+                  "ans": "Given: n(A) = 80, n(B) = 60 and n (A ∩ B) = 20. Total number of students = 125. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 80 + 60 - 20 = 120. Then, the number of students who do not drink tea or coffee = 125 – 120 = 5",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "In competitive exam 50 students passed in English. 60 students passed in Mathematics. 40 students passed in both the subjects. None of them fail in both the subjects. Find the number of students who passed at least in one of the subjects?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Find the number of students who passed at least in one of the subjects",
+                  "ans": "Given: n(A) = 50, n(B) = 60 and n (A ∩ B) = 40. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 50 + 60 - 40 = 70. Hence, the number of students who passed in at least one of the subject = 70",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "A survey was conducted to know the hobby of 220 students of class IX. Out of which 130 students informed about their hobby as rock climbing and 180 students informed about their hobby as sky watching. There are 110 students who follow both the hobbies. Then how many students do not have any of the two hobbies? How many of them follow the hobby of rock climbing only? How many students follow the hobby of sky watching only?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "How many students do not have any of the two hobbies?",
+                  "ans": "Given: n(A) = 130, n(B) = 180 and n (A ∩ B) = 110. Total number of students = 220. As we know, n (A ∪ B) = n(A) + n(B) - n (A ∩ B). ⇒ n (A ∪ B) = 130 + 180 - 110 = 200. The number of students who do not have any of the two hobbies = 220 – 200 = 20",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "How many of them follow the hobby of rock climbing only?",
+                  "ans": "The number of students whose hobby is rock climbing only = 130 – 110 = 20",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "How many students follow the hobby of sky watching only?",
+                  "ans": "The number of students whose hobby is sky watching only = 180 – 110 = 70",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Observe the given Venn diagram and write the following sets.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. A",
+                  "ans": "A = {x, y, z, m, n}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. B",
+                  "ans": "B = {p, q, r, m, n}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. A ∪ B",
+                  "ans": "(A ∪ B) = {x, y, z, m, n, p, q, r}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. U",
+                  "ans": "U = {x, y, z, m, n, p, q, r, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. A'",
+                  "ans": "A' = {p, q, r, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vi. B'",
+                  "ans": "B' = {x, y, z, s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "vii. (A ∪ B)'",
+                  "ans": "(A ∪ B)' = {s, t}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
         }
       ]
     }
