@@ -7,61 +7,33 @@
           "chapterName": "1.1 Sets",
           "questions": [
             {
-              "questionsTitle": "Find the distances with the help of the number line given below",
+              "questionsTitle": "Q.1. Write the following sets in roster form:",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "(i) d(B, E)",
-                  "ans": "d(B, E) = 3",
+                  "question": "i. Set of even numbers",
+                  "ans": "A = {2, 4, 6, 8, 10, 12, 14, … }",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(ii) d(J, A)",
-                  "ans": "d(J, A) = 3",
+                  "question": "ii. Set of even prime numbers from 1 to 50",
+                  "ans": "B = {2}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(iii) d(P, C)",
-                  "ans": "d(P, C) = 7",
+                  "question": "iii. Set of negative integers",
+                  "ans": "C = { … -7, -6, -5, -4, -3, -2, -1}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(iv) d(J, H)",
-                  "ans": "d(J, H) = 1",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(v) d(K, O)",
-                  "ans": "d(K, O) = 3",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(vi) d(O, E)",
-                  "ans": "d(O, E) = 5",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(vii) d(P, J)",
-                  "ans": "d(P, J) = 2",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(viii) d(Q, B)",
-                  "ans": "d(Q, B) = 7",
+                  "question": "iv. Seven basic sounds of a sargam (sur)",
+                  "ans": "D = {Sa, Re, Ga, Ma, Pa, Dha, Ni}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -69,47 +41,26 @@
               ]
             },
             {
-              "questionsTitle": "If the coordinate of A is x and that of B is y, find d(A, B)",
+              "questionsTitle": "Q.2. Write the following symbolic statements in words:",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "(i) x = 1, y = 7",
-                  "ans": "d(A, B) = 6",
+                  "question": "i. 4/3 ∈ Q",
+                  "ans": "4/3 is an element of set of rational numbers.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(ii) x = 6, y = –2",
-                  "ans": "d(A, B) = 8",
+                  "question": "ii. -2 ∈ N",
+                  "ans": "-2 is not an element of set of natural numbers.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(iii) x = –3, y = 7",
-                  "ans": "d(A, B) = 10",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(iv) x = –4, y = –5",
-                  "ans": "d(A, B) = 1",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(v) x = –3, y = –6",
-                  "ans": "d(A, B) = 3",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(vi) x = 4, y = –8",
-                  "ans": "d(A, B) = 12",
+                  "question": "iii. P = {P is an odd number}",
+                  "ans": "Set P contains all the odd numbers.",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -117,47 +68,19 @@
               ]
             },
             {
-              "questionsTitle": "Determine if points are collinear and their arrangement",
+              "questionsTitle": "Q.3. Write any two sets by listing method and by rule method.",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "(i) d(P, R) = 7, d(P, Q) = 10, d(Q, R) = 3",
-                  "ans": "P–R–Q or Q–R–P",
+                  "question": "Set 1: Even numbers less than 10",
+                  "ans": "Listing Method: A = {2,4,6,8}, Rule Method: A = {x | x is an even number and x < 10}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(ii) d(R, S) = 8, d(S, T) = 6, d(R, T) = 4",
-                  "ans": "Points R, S and T are not collinear",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(iii) d(A, B) = 16, d(A, C) = 9, d(B, C) = 7",
-                  "ans": "A–C–B or B–C–A",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(iv) d(L, M) = 11, d(M, N) = 12, d(N, L) = 8",
-                  "ans": "Points M, N and L are not collinear",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(v) d(X, Y) = 15, d(Y, Z) = 7, d(X, Z) = 8",
-                  "ans": "X–Z–Y or Y–Z–X",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(vi) d(D, E) = 5, d(E, F) = 8, d(D, F) = 6",
-                  "ans": "Points D, E and F are not collinear",
+                  "question": "Set 2: First five natural numbers",
+                  "ans": "Listing Method: B = {1,2,3,4,5}, Rule Method: B = {x | x ∈ N and x ≤ 5}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -165,12 +88,40 @@
               ]
             },
             {
-              "questionsTitle": "On a number line, points A, B and C are such that d(A, C) = 10, d(C, B) = 8. Find d(A, B) considering all possibilities",
+              "questionsTitle": "Q.4. Write the following sets using listing method:",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "Find d(A, B) with given conditions",
-                  "ans": "d(A, B) = 18 or 2",
+                  "question": "i. All months in the Indian solar year.",
+                  "ans": "A = {Mesa, Vrsabha, Mithuna, Karkata, Simha, Kanya, Tula, Vrscika, Dhanu, Makara, Kumbha, Mina}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. Letters in the word ‘COMPLEMENT’.",
+                  "ans": "B = {C, O, M, P, L, E, N, T}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. Set of human sensory organs.",
+                  "ans": "C = {Eyes, Ears, Nose, Mouth, Skin}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. Set of prime numbers from 1 to 20.",
+                  "ans": "D = {2, 3, 5, 7, 11, 13, 17, 19}",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. Names of continents of the world.",
+                  "ans": "E = {Asia, Africa, North America, South America, Antarctica, Europe, Australia}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
@@ -178,437 +129,33 @@
               ]
             },
             {
-              "questionsTitle": "Points X, Y, Z are collinear such that d(X, Y) = 17, d(Y, Z) = 8, find d(X, Z)",
+              "questionsTitle": "Q.5. Write the following sets using rule method:",
               "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "Find d(X, Z) with given collinear points",
-                  "ans": "d(X, Z) = 9 or 25",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Sketch proper figure and write the answers to the following questions",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "(i) If A–B–C and l(AC) = 11, l(BC) = 6.5, then find l(AB) = ?",
-                  "ans": "l(AB) = 4.5",
+                  "question": "i. A = {1,4,9,16,25,36,49,64,81,100}",
+                  "ans": "A = {x | x is a perfect square number from 1 to 101}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(ii) If R–S–T and l(ST) = 3.7, l(RS) = 2.5, then l(RT) = ?",
-                  "ans": "l(RT) = 6.2",
+                  "question": "ii. B = {6,12,18,24,30,36,42,48}",
+                  "ans": "B = {y | y is a multiple of 6 and is less than 50}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "(iii) If X–Y–Z and l(XZ) = 3√7, l(XY) = √7, then l(YZ) = ?",
-                  "ans": "l(YZ) = 2√7",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            }
-          ]
-        },
-          {
-          "chapterName": "1.2 Sets",
-          "questions": [
-            {
-              "questionsTitle": "Decide which of the following are equal sets and which are not? Justify your answer.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "A = {x|3x – 1 = 2}, B = {x | x is a natural number but x is neither prime nor composite}, C = {x |x ∈ N, x < 2}",
-                  "ans": "A = {1}, B = {1}, C = {0, 1}; A = B, B ≠ C, A ≠ C; So, A and B are equal sets but B and C and A and C are not equal sets.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Decide whether set A and B are equal sets. Give reason for your answer.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "A = Even prime numbers, B = {x| 7x – 1 = 13}",
-                  "ans": "A = {2}, B = {2}; A = B; Set A and set B are equal sets.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Which of the following are empty sets? Why?",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. A = {a |a is a natural number smaller than zero}",
-                  "ans": "A = {}; A is an empty set.",
+                  "question": "iii. C = {S, M, I, L, E}",
+                  "ans": "C = {z | z is a letter of the word ‘SMILE’}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
                 },
                 {
-                  "question": "ii. B = {x|x² = 0}",
-                  "ans": "B = {0}; B is not an empty set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. C = {x|5x – 2 = 0, x ∈ N}",
-                  "ans": "C = {}; C is an empty set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Write with reasons, which of the following sets are finite or infinite.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. A = {x|x < 10, x is a natural number}",
-                  "ans": "A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; A is a finite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. B = {y |y< -1, y is an integer}",
-                  "ans": "B = {… -5, -4, -3, -2}; B is an infinite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. C = Set of students of class 9 from your school.",
-                  "ans": "C is a finite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iv. Set of people from your village.",
-                  "ans": "D is a finite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "v. Set of apparatus in laboratory",
-                  "ans": "E is a finite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "vi. Set of whole numbers",
-                  "ans": "W = {0, 1, 2, 3, …}; W is an infinite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "vii. Set of rational numbers",
-                  "ans": "Q = {p/q | p, q ∈ I, q ≠ 0}; Q is an infinite set.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            }
-          ]
-        },
-{
-          "chapterName": "1.3 Practice Set",
-          "questions": [
-            {
-              "questionsTitle": "If A = {a, b, c, d, e}, B = {c, d, e, f}, C = {b, d} and D = {a, e}. then which of the following statements are true and which are false?",
-              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506615249_122117105696866734_4804942318071256680_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7RxaNo9p6a8Q7kNvwHoOpl0&_nc_oc=AdmYXYEaZbq4oSW_86oqgtm2-t41N93JnWB2DAAcW1W84AyC5CAnOoYMH1cddu7-p48&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=1cS4pkZgTcY_Ueatl9nRNA&oh=00_AfOVrGpOeu2Q5O9Zl6c4lgrG80uR3QpVtLHL7nSeBYOdYg&oe=6851A058",
-              "subQuestion": [
-                {
-                  "question": "i. C ⊆ B",
-                  "ans": "False",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. A ⊆ D",
-                  "ans": "False",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. D ⊆ B",
-                  "ans": "False",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iv. D ⊆ A",
-                  "ans": "True",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "v. B ⊆ A",
-                  "ans": "False",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "vi. C ⊆ A",
-                  "ans": "True",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Take the set of natural numbers from 1 to 20 as universal set and show set X and Y using Venn diagram.",
-              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506044995_122117110082866734_6598699907215708214_n.jpg",
-              "subQuestion": [
-                {
-                  "question": "X = {x | x ∈ ℕ, and 7 < x < 15}",
-                  "ans": "X = {8, 9, 10, 11, 12, 13, 14}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "Y = {y | y ∈ ℕ, y is prime number from 1 to 20}",
-                  "ans": "Y = {2, 3, 5, 7, 11, 13, 17, 19}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "U = {1, 2, 3, 7, 8, 9, 10, 11, 12}, P = {1, 3, 7, 10}, show U, P and P'. Verify (P’)' = P",
-              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506628632_122117110376866734_5990773175068177833_n.jpg",
-              "subQuestion": [
-                {
-                  "question": "P' = U – P",
-                  "ans": "P' = {2, 8, 9, 11, 12}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(P’)' = P",
-                  "ans": "True",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "A = {1, 3, 2, 7} then write any three subsets of A.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "Three subsets",
-                  "ans": "B = {1, 2, 3}, C = {1, 3}, D = {2, 3, 7}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Write the subset relation and universal set.",
-              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506530791_122117110544866734_2144686920192227758_n.jpg",
-              "subQuestion": [
-                {
-                  "question": "Subset relation",
-                  "ans": "I ⊆ M, P ⊆ H, M ⊆ B, H ⊆ B",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "Universal Set",
-                  "ans": "B is the universal set",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Which set of numbers could be the universal set?",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "A = multiples of 5, B = multiples of 7, C = multiples of 12",
-                  "ans": "Universal Set = ℤ (set of all integers)",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "P = multiples of 4, T = even square numbers",
-                  "ans": "Universal Set = ℤ (set of all integers)",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Let all the students of a class is a Universal set. Let set A be the students who secure 50% or more marks in Maths.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "Complement of set A",
-                  "ans": "A’ = Set of all students who secured less than 50% marks in Maths",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "chapterName": "1.4 Sets - Practice Set",
-          "questions": [
-            {
-              "questionsTitle": "Find n(B) given n(A) = 15, n(A ∪ B) = 29, n(A ∩ B) = 7",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "Q1",
-                  "ans": "n(B) = 21",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Find number of students who do not drink tea or coffee",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "Q2",
-                  "ans": "Number of students who do not drink tea or coffee = 5",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Find number of students who passed at least one subject",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "Q3",
-                  "ans": "Number of students who passed at least in one of the subject = 70",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Survey on hobbies of students",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "(i) How many students do not have any of the two hobbies?",
-                  "ans": "20",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(ii) How many of them follow the hobby of rock climbing only?",
-                  "ans": "20",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "(iii) How many students follow the hobby of sky watching only?",
-                  "ans": "70",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Observe Venn diagram and write sets",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. A",
-                  "ans": "{x, y, z, m, n}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. B",
-                  "ans": "{p, q, r, m, n}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. A ∪ B",
-                  "ans": "{x, y, z, m, n, p, q, r}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iv. U",
-                  "ans": "{x, y, z, m, n, p, q, r, s, t}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "v. A’",
-                  "ans": "{p, q, r, s, t}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "vi. B’",
-                  "ans": "{x, y, z, s, t}",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "vii. (A ∪ B)’",
-                  "ans": "{s, t}",
+                  "question": "iv. D = {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday}",
+                  "ans": "D = {p | p is a day of the week}",
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
