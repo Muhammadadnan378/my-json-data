@@ -1,94 +1,231 @@
 {
   "list1": [
     {
-      "uid": "1",
-      "subjectName": "Geography",
+      "subjectName": "Geography_9th",
       "chapter part 1": [
         {
-         "chapterName": "Geography 1",
+          "chapterName": "1. Distributional Maps",
           "questions": [
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Give reasons why following sentences are right or wrong",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "The main aim of distributional maps is to show location.",
+                  "ans": "The given statement is wrong. Distributional maps refer to those maps which indicate the distribution of a particular feature in a given area. These features can range from population distribution in districts/talukas to wheat production in different farms in a single village. Thus, the main aim of distributional maps is not to show location of a area but the distribution of a mentioned feature in a given area.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "In choropleth maps, only one value is assigned to the sub-administrative unit.",
+                  "ans": "The given statement is right. Choropleth maps are distributional maps where the data for different geographical variables is represented by either shades of the same color or by different colors. The collected data regarding the variable to be represented is assigned to singular administrative units and the color is assigned as per the distribution with lighter colors representing lower values and darkening with higher values. Each administrative unit has a single value to aid in representation.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "In choropleth maps, colours/ tints do not change according to the values of the variables.",
+                  "ans": "The given statement is wrong. Choropleth maps are distributional maps where the data for different geographical variables is represented by either shades of the same color or by different colors. The collected data regarding the variable to be represented is assigned to singular administrative units and the color is assigned as per the distribution with lighter colors representing lower values and darkening with higher values.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Choropleth maps are used to show altitudes.",
+                  "ans": "The given statement is wrong. Choropleth maps are used to show the distribution of geographic variables among different administrative units and as such do not utilize continuous data. Altitude of any region being a distance measurement is not bound by the administrative boundaries and are continuous in nature. Thus, isopleth maps represent altitudes in a better manner.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Isopleth maps are used to show population distribution.",
+                  "ans": "The given statement is wrong. The data regarding population distribution is collected on the basis of the sub administrative units. Since isopleth maps disregard sub administrative units and use continuous data for marking, population distribution cannot be represented by them. Choropleth maps are better to represent data regarding population distribution.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "In dot method, every dot should have an appropriate scale.",
+                  "ans": "The given statement is right. Every dot represents a certain value of the data that is being represented in the map. Thus, its size should be appropriate in relation to the data that it represents. If a larger dot is used to represent a smaller data it can lead to wrong conclusions during map interpretation.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Isopleth maps are not made using isolines.",
+                  "ans": "The given statement is wrong. Isolines are lines which join the places having the same data on a map like lines joining places having equal rainfall. The ranges are between two isolines are often colored to represent the data diversity which creates the isopleth maps. Thus, isolines are the basis on which isopleth maps are created.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Distribution of various geographical elements can be shown using dot method.",
+                  "ans": "The given statement is wrong. The dot method can be used to represent various geographic elements but does not present a true picture when used for those geographic variables which are continuous in nature like altitude, rainfall, temperature or population of density. Thus, unless specific elements are mentioned, the given statement cannot hold true as it is not a correct representation for all geographic elements.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Answer in brief",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Explain the use and types of distributional maps.",
+                  "ans": "Distribution maps are a form of thematic maps that are used to represent the distribution of particular geographic elements within a given region. It utilizes the statistical data of the chosen element to create a map which provides the user with a visual representation the particular variable's distribution. A properly made distributional map makes it easy to visualize how a certain variable or element varies over a region. It can be used to represent qualitative data like vegetation or soil in a region or quantitative data like population density or average annual rainfall in a region. The following table gives a classification of the different distributional maps along with their advantages and disadvantages.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
+                    {
+                      "Type": "Dot Maps",
+                      "Methodology and usage": "Uses dots to represent pre-calculated values of chosen variable. Dots should be uniform in size corresponding to their index. Dot placement is dependent on presence of natural and man-made features. Used for variables scattered across the region.",
+                      "Advantages": "Easy to read maps. Clear patterns with proper methodology. Multi-colored dots allow study of related phenomena.",
+                      "Disadvantages": "Improper methodology leads to human error. Dense dots can distort results."
+                    },
+                    {
+                      "Type": "Choropleth Maps",
+                      "Methodology and usage": "Data is shown using shades or colors. Each sub-region has one value. Data divided into classes based on range; darker shades indicate higher values.",
+                      "Advantages": "Popular and easy to read and interpret.",
+                      "Disadvantages": "Cannot represent continuous data. Limited to administrative boundaries."
+                    },
+                    {
+                      "Type": "Isopleth Maps",
+                      "Methodology and usage": "Uses isolines joining places with same data (e.g. equal rainfall). Areas between isolines are colored to show variation.",
+                      "Advantages": "Best for showing gradual change in variables like temperature, rainfall, altitude.",
+                      "Disadvantages": "Not suitable for unevenly distributed variables like forest cover or agriculture."
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Geography 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "question": "Differentiate between choropleth and isopleths methods.",
+              "ans": "Choropleth and Isopleth maps are two different forms of distributional maps that are used to represent various geographical elements in a region. At first glance, they may look similar but the methodology behind them is completely different and they also utilize different data. The following table differentiates between the two methods.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": [
+                {
+                  "question": "Differentiate between Choropleth and Isopleth methods based on the following points.",
+                  "ans": "",
+                  "subAns": [
+                    {
+                      "Choropleth Method": "The data for different geographical variables is represented by either shades of the same color or by different colors.",
+                      "Isopleth Method": "The data for the variable under study is demarcated by isolines which are lines joining the places having the same value."
+                    },
+                    {
+                      "Choropleth Method": "Continuous or varying data can be used for mapping purposes.",
+                      "Isopleth Method": "Only continuous data is used."
+                    },
+                    {
+                      "Choropleth Method": "Administrative boundaries define data boundary and hence continuous data may be misrepresented.",
+                      "Isopleth Method": "Administrative boundaries do not define data boundary. Data boundary is defined by isolines."
+                    },
+                    {
+                      "Choropleth Method": "Smallest and largest values of given data are used to classify the data range into acceptable classes.",
+                      "Isopleth Method": "Places having same data value determine the drawing of isolines. The range is determined by the difference in these isolines."
+                    },
+                    {
+                      "Choropleth Method": "Color gradient or pattern allows map interpretation. Deeper the color, higher the value of data under study.",
+                      "Isopleth Method": "Placement of lines allows map interpretation. Closer the isolines, steeper the data distribution."
+                    },
+                    {
+                      "Choropleth Method": "Mainly used for varying data like population density, distribution etc.",
+                      "Isopleth Method": "Mainly used for continuous data like temperature, rainfall, altitude etc."
+                    }
+                  ],
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
+            }, {
+              "questionsTitle": "Answer in brief",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Explain with reasons the method which is best suited to show the distribution of population in a region.",
+                  "ans": "Population refers to the number of people residing in a clearly demarcated geographic area. Often for purpose of study, this demarcated area is on the basis of administrative divisions. Thus, the number of people living at a given point of time in a country, state, district, village, etc. refers to the population of the area. Two types of thematic maps can be used for showing the population distribution of any given area. These are dot distribution maps and choropleth maps.\n\nDot distribution maps - Uses dots to represent pre-calculated values of chosen variable. The value of each dot is calculated based on the highest and lowest recorded population data. Dots used should be uniform in size corresponding to their index. Dot placement is dependent on presence of natural and man-made features like rivers, roads etc. This method makes it easy to read maps and allows for a precise interpretation of population distribution in a given area. But with increasing density, the map loses its efficiency.\n\nChoropleth maps - The population data for different geographical areas is represented by either shades of the same color or by different colors. Every subadministrative region has one assigned value. Data is divided in classes after ascertaining the highest and lowest values; with each class getting a particular shade. The shade becomes darker with increasing values of the given variables. Administrative boundaries play a vital role in this form of maps. Since classes are used for data division, population density is often represented through these maps.\n\nFrom the above discussion, it is evident that dot distribution maps are ideal for representing population distribution of an area as the data collected is defined by administrative boundaries. Only with increasing density, choropleth maps should be used to represent a clearer picture.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "Geography 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "Which method will you use for the following information?",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Taluka-wise wheat production in the district.",
+                  "ans": "Taluka wise wheat production in the district would be best represented by the dot distribution map. Explanation: The dot distribution map takes into account absolute values. This allows the proper representation of the wheat grown. Also, placement of the dots would allow one to see where the major farmlands are situated in a district.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Distribution of the altitude of the land in the district.",
+                  "ans": "Distribution of the altitude of the land in the district would be best represented by the isopleth maps. Explanation: Altitude of any region being a distance measurement is not bound by the administrative boundaries and are continuous in nature. Thus, isopleth maps represent altitudes in a better manner.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Distribution of domestic animals in the State.",
+                  "ans": "Distribution of domestic animals in the State would be best represented by the dot distribution map. Explanation: The dot distribution map takes into account absolute values. This allows the proper representation of the distribution of domestic animals in a state. Also, placement of the dots would allow one to see the major areas for domesticated animals.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "The distribution of population density in India.",
+                  "ans": "The distribution of population density in India would be best represented by the choropleth map. Explanation: If the distribution is done on the basis of state boundaries, several states can be classed together under a single class and the choropleth map would allow one single color for each class of population density. This would create a clear picture as the assigned color would darken with higher density.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Temperature distribution in Maharashtra State.",
+                  "ans": "Temperature distribution in Maharashtra State would be best represented by an isopleth map. Explanation: Temperature is a continuous variable and accurate data is also available regarding it. Places having equal temperature in the state can be joined by isolines and this would create an accurate isopleth map for further interpretation.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        }
-      ],
-      "chapter part 2": [
-        {
-         "chapterName": "Geography 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "4.Interpretation based on map",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/507982733_122117412458866734_9172250320955275351_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zSok4LD38LUQ7kNvwGsiGbd&_nc_oc=AdlZ1wg-Xz7yx0LbbBYbzyUWiSWhI-PObh0ajihtp-lT_uYMq7pKPSu20Dd_Z4itNCQ&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=AJ5ZlvLkvK8YscqcVJjQhw&oh=00_AfPrbaAzGPaR8HVTaDFg98r-x10wtPhsQtndw6D3vq6jNQ&oe=685312E8",
+              "subQuestion": [
+                {
+                  "question": "Which method has been used to show the distribution of population in the district?",
+                  "ans": "Dot method is used.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Explain the direction-wise distribution of population from dense to sparse.",
+                  "ans": "Population is dense in the northeast and becomes sparse towards the west and south.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "What is the population shown by the largest circle? Which place is that?",
+                  "ans": "Twenty lakhs; Kolhapur city.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "Which Taluka has the least population?",
+                  "ans": "Gaganbavada Taluka (around 40,000).",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             }
           ]
         }
