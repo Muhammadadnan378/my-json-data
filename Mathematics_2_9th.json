@@ -1149,138 +1149,134 @@
             }
           ]
         },
+        
         {
-          "chapterName": "2.4 Surds and Indices",
-          "questions": [
-            {
-              "questionsTitle": "Q.1. Multiply",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. √3(√7 − √3)",
-                  "ans": "√3 × √7 − √3 × √3 = √21 − 3",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. (√5 − √7)√2",
-                  "ans": "√5 × √2 − √7 × √2 = √10 − √14",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. (3√2 − √3)(4√3 − √2)",
-                  "ans": "12√6 − 6 − 12 + √6 = 13√6 − 18",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Q.2. Rationalize the denominator",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. 1 / (√7 + √2)",
-                  "ans": "(√7 − √2) / 5",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. 3 / (2√5 − 3√2)",
-                  "ans": "(6√5 + 9√2) / 2",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. 4 / (7 + 4√3)",
-                  "ans": "28 − 16√3",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iv. (√5 − √3) / (√5 + √3)",
-                  "ans": "4 − √15",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            }
-          ]
+  "chapterName": "Practice Set 2.4 & 2.5",
+  "questions": [
+    {
+      "questionsTitle": "Multiply",
+      "questionsImage": null,
+      "subQuestion": [
+        {
+          "question": "√3(√7 − √3)",
+          "ans": "=√3 × √7 − √3 × √3\n[√a(√b − √c) = √a × √b − √a × √c]\n=√21 − 3",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
         },
         {
-          "chapterName": "2.5 Absolute Value",
-          "questions": [
-            {
-              "questionsTitle": "Q.1. Find the value.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. |15 − 2|",
-                  "ans": "13",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. |4 − 9|",
-                  "ans": "5",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. |7| × |−4|",
-                  "ans": "28",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            },
-            {
-              "questionsTitle": "Q.2. Solve.",
-              "questionsImage": null,
-              "subQuestion": [
-                {
-                  "question": "i. |3x − 5| = 1",
-                  "ans": "x = 2 or x = 4/3",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "ii. |7 − 2x| = 5",
-                  "ans": "x = 1 or x = 6",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iii. |(8 − x)/2| = 5",
-                  "ans": "x = −2 or x = 18",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                },
-                {
-                  "question": "iv. |(5 + x)/4| = 5",
-                  "ans": "x = 15 or x = −25",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
-                  "subAns": null
-                }
-              ]
-            }
-          ]
+          "question": "(√5 − √7)√2",
+          "ans": "=√5 × √2 − √7 × √2\n[(√a − √b)√c = √a × √c − √b × √c]\n=√10 − √14",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "(3√2 − √3)(4√3 − √2)",
+          "ans": "=3√2 × 4√3 − 3√2 × √2 − √3 × 4√3 + √3 × √2\n=12√6 − 3 × 2 − 4 × 3 + √6\n=12√6 − 6 − 12 + √6\n=(12√6 + √6) − 6 − 12\n=13√6 − 18",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
         }
+      ]
+    },
+    {
+      "questionsTitle": "Rationalize the denominator",
+      "questionsImage": null,
+      "subQuestion": [
+        {
+          "question": "1/(√7 + √2)",
+          "ans": "The rationalizing factor of √7 + √2 is √7 − √2. Therefore, multiply both numerator and denominator\n1/(√7 + √2) = 1/(√7 + √2) × (√7 − √2)/(√7 − √2)\n⇒ 1/(√7 + √2) = (√7 − √2)/( (√7 + √2)(√7 − √2) )\n⇒ 1/(√7 + √2) = (√7 − √2)/( (√7)^2 − (√2)^2 )\n[(a − b)(a + b) = a^2 − b^2]\n⇒ 1/(√7 + √2) = (√7 − √2)/(7 − 2)\n⇒ 1/(√7 + √2) = (√7 − √2)/5",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "3/(2√5 − 3√2)",
+          "ans": "The rationalizing factor of 2√5 − 3√2 is 2√5 + 3√2. Therefore, multiply both numerator and denominator\n3/(2√5 − 3√2) = 3/(2√5 − 3√2) × (2√5 + 3√2)/(2√5 + 3√2)\n⇒ 3/(2√5 − 3√2) = 3(2√5 + 3√2)/( (2√5 − 3√2)(2√5 + 3√2) )\n⇒ 3/(2√5 − 3√2) = (6√5 + 9√2)/( (2√5)^2 − (3√2)^2 )\n[(a − b)(a + b) = a^2 − b^2]\n⇒ 3/(2√5 − 3√2) = (6√5 + 9√2)/(20 − 18)\n⇒ 3/(2√5 − 3√2) = (6√5 + 9√2)/2",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "4/(7 + 4√3)",
+          "ans": "The rationalizing factor of 7 + 4√3 is 7 − 4√3. Therefore, multiply both numerator and denominator\n4/(7 + 4√3) = 4/(7 + 4√3) × (7 − 4√3)/(7 − 4√3)\n⇒ 4/(7 + 4√3) = 4(7 − 4√3)/( (7 + 4√3)(7 − 4√3) )\n⇒ 4/(7 + 4√3) = (28 − 16√3)/( (7)^2 − (4√3)^2 )\n[(a − b)(a + b) = a^2 − b^2]\n⇒ 4/(7 + 4√3) = (28 − 16√3)/(49 − 48)\n⇒ 4/(7 + 4√3) = 28 − 16√3",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "(√5 − √3)/(√5 + √3)",
+          "ans": "The rationalizing factor of √5 + √3 is √5 − √3. Therefore, multiply both numerator and denominator\n(√5 − √3)/(√5 + √3) = (√5 − √3)/(√5 + √3) × (√5 − √3)/(√5 − √3)\n⇒ (√5 − √3)/(√5 + √3) = (√5 − √3)(√5 − √3)/( (√5 + √3)(√5 − √3) )\n⇒ (√5 − √3)/(√5 + √3) = (√5 − √3)^2/( (√5)^2 − (√3)^2 )\n[(a − b)(a + b) = a^2 − b^2]\n⇒ (√5 − √3)/(√5 + √3) = ( (√5)^2 + (√3)^2 − 2(√5)(√3) )/( (√5)^2 − (√3)^2 )\n[(a − b)^2 = a^2 + b^2 − 2ab]\n⇒ (√5 − √3)/(√5 + √3) = (5 + 3 − 2√15)/(5 − 3)\n⇒ (√5 − √3)/(√5 + √3) = (8 − 2√15)/2\n⇒ (√5 − √3)/(√5 + √3) = 2[4 − √15]/2\n⇒ (√5 − √3)/(√5 + √3) = 4 − √15",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        }
+      ]
+    },
+    {
+      "questionsTitle": "Find the value",
+      "questionsImage": null,
+      "subQuestion": [
+        {
+          "question": "|15 − 2|",
+          "ans": "|15 − 2| = |13| = 13",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "|4 − 9|",
+          "ans": "|4 − 9| = |−5| = 5",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "|7| × |−4|",
+          "ans": "|7| × |−4| = 7 × 4 = 28",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        }
+      ]
+    },
+    {
+      "questionsTitle": "Solve",
+      "questionsImage": null,
+      "subQuestion": [
+        {
+          "question": "|3x − 5| = 1",
+          "ans": "⇒ 3x − 5 = 1 or 3x − 5 = −1\n⇒ 3x = 1 + 5 or 3x = −1 + 5\n⇒ 3x = 6 or 3x = 4\n⇒ x = 6/3 or x = 4/3\n⇒ x = 2 or x = 4/3",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "|7 − 2x| = 5",
+          "ans": "⇒ 7 − 2x = 5 or 7 − 2x = −5\n⇒ 2x = 7 − 5 or 2x = 7 + 5\n⇒ 2x = 2 or 2x = 12\n⇒ x = 1 or x = 12/2\n⇒ x = 1 or x = 6",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "|(8 − x)/2| = 5",
+          "ans": "⇒ (8 − x)/2 = 5 or (8 − x)/2 = −5\n⇒ 8 − x = 2 × 5 or 8 − x = 2 × −5\n⇒ 8 − x = 10 or 8 − x = −10\n⇒ x = 8 − 10 or x = 8 + 10\n⇒ x = −2 or x = 18",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        },
+        {
+          "question": "|(5 + x)/4| = 5",
+          "ans": "⇒ 5 + x/4 = 5 or 5 + x/4 = −5\n⇒ (20 + x)/4 = 5 or (20 + x)/4 = −5\n⇒ 20 + x = 4 × 5 or 20 + x = 4 × −5\n⇒ 20 + x = 20 or 20 + x = −20\n⇒ x = 0 or x = −40",
+          "youtubeVideoPath": null,
+          "imgUrl": null,
+          "subAns": null
+        }
+      ]
+    }
+  ]
+}
       ]
     }
   ]
