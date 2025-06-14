@@ -561,7 +561,731 @@
               ]
             }
           ]
+        },
+        {
+          "chapterName": "2.1 Real Numbers - Decimal Form Classification",
+          "questions": [
+            {
+              "questionsTitle": "Q.1. Classify the decimal form of the given rational numbers into terminating and non-terminating recurring type",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. 13/5",
+                  "ans": "13/5 = 2.6\n∵ The division is exact\n∴ It is a terminating decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. 2/11",
+                  "ans": "2/11 = 0.181818…\n∵ The division never ends and the digits '18' is repeated endlessly\n∴ It is a non-terminating recurring type decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. 29/16",
+                  "ans": "29/16 = 1.8125\n∵ The division is exact\n∴ It is a terminating decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. 17/125",
+                  "ans": "17/125 = 0.136\n∵ The division is exact\n∴ It is a terminating decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. 11/6",
+                  "ans": "11/6 = 1.8333…\n∵ The division never ends and the digit '3' is repeated endlessly\n∴ It is a non-terminating recurring type decimal.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q.2. Write the following rational numbers in decimal form.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. 127/200",
+                  "ans": "127/200 = 0.635",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. 23/99",
+                  "ans": "23/99 = 0.232323…",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. 73/5",
+                  "ans": "73/5 = 14.6",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. 17/20",
+                  "ans": "17/20 = 0.85",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. 17/8",
+                  "ans": "17/8 = 2.125",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q.3. Write the following rational numbers in p/q form.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "i. 0.6̅",
+                  "ans": "Let x = 0.6̅ = 0.6666…\n⇒ 10x = 6.6666…\nNow, 10x − x = 6.6666 − 0.6666\n⇒ 9x = 6\n⇒ x = 6/9 = 2/3",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ii. 0.37̅",
+                  "ans": "Let x = 0.37̅ = 0.373737…\n⇒ 100x = 37.3737…\nNow, 100x − x = 37.3737 − 0.3737\n⇒ 99x = 37\n⇒ x = 37/99",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iii. 3.1̅7̅",
+                  "ans": "Let x = 3.1̅7̅ = 3.1717…\n⇒ 100x = 317.1717…\nNow, 100x − x = 317.1717 − 3.1717\n⇒ 99x = 314\n⇒ x = 314/99\n⇒ 3.1̅7̅ = 314/99",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "iv. 15.8̅9̅",
+                  "ans": "Let x = 15.8̅9̅ = 15.8989…\n⇒ 100x = 1589.8989…\nNow, 100x − x = 1589.8989 − 15.8989\n⇒ 99x = 1574\n⇒ x = 1574/99\n⇒ 15.8̅9̅ = 1574/99",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "v. 2.5̅1̅4̅",
+                  "ans": "Let x = 2.5̅1̅4̅ = 2.514514…\n⇒ 1000x = 2514.514514…\nNow, 1000x − x = 2514.514514 − 2.514514\n⇒ 999x = 2512\n⇒ x = 2512/999",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "2.2 Real Numbers - Irrational Numbers",
+          "questions": [
+            {
+              "questionsTitle": "Q.1. Show that is 4√2 an irrational number.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Prove 4√2 is irrational",
+                  "ans": "Let us assume that 4√2 is a rational number\n∴ 4√2 = a/b\nwhere, b≠0 and a, b are integers\n⇒ √2 = a/4b\n∵ a, b are integers ∴ 4b is also integer\n∴ a/4b is rational which cannot be possible\n∴ a/4b = √2 which is an irrational number\n∵ it is contradicting our assumption\n∴ the assumption was wrong\nHence, 4√2 is an irrational number",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q.2. Prove that 3 + √5 is an irrational number.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Prove 3 + √5 is irrational",
+                  "ans": "Let us assume that 3 + √5 is a rational number\n∴ 3 + √5 = a/b\nwhere, b≠0 and a, b are integers\n⇒ √5 = a/b – 3\n⇒ √5 = a – 3b/b\n∵ a, b are integers ∴ a – 3b is also integer\n∴ a – 3b/b is rational which cannot be possible\n⇒ a – 3b/b = √5 which is an irrational number\n∵ it is contradicting our assumption ∴ the assumption was wrong\nHence, 3 + √5 is an irrational number",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q.3. Represent the numbers √5 and √10 on a number line.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Represent √5 and √10 on number line",
+                  "ans": "By Pythagoras theorem,\n(√5)² = 2² + 1²\n⇒ (√5)² = 4 + 1\n⇒ √5 = √(4 + 1)\n\nFirst mark 0 and 2 on the number line. Then, draw a perpendicular of 1 unit from 2. And Join the top of perpendicular and 0. This line would be equal to √5. Now measure the line with compass and mark an arc on the number line with the same measurement. This point is √5.\n\nAlso,\nBy Pythagoras theorem,\n(√10)² = 3² + 1²\n⇒ (√10)² = 9 + 1\n⇒ √10 = √(9 + 1)\n\nFirst mark 0 and 3 on the number line. Then, draw a perpendicular of 1 unit from 3. And Join the top of perpendicular and 0. This line would be equal to √10. Now measure the line with compass and mark an arc on the number line with the same measurement. This point is √10.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Q.4. Write any three rational numbers between the two numbers given below.",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "A. 0.3 and -0.5",
+                  "ans": "0.3 and -0.5\nTo find a rational number x between two rational numbers a/b and c/d, we use\nx = 1/2 (a/b + c/d)\n\nTherefore, to find rational number x (let) between\n0.3 = 3/10 and –0.5 = –5/10\nx = 1/2 (3/10 + (–5)/10)\n⇒ x = 1/2 (–2/10)\n⇒ x = –1/10 = –0.1\n\nNow if we find a rational number between 3/10 and –1/10 it will also be between 0.3 and –0.5 since –1/10 lies between 0.3 and –0.5.\n\nTherefore, to find rational number y (let) between 3/10 and –1/10\ny = 1/2 (3/10 + (–1)/10)\n⇒ y = 1/2 (2/10)\n⇒ y = 1/10 = 0.1\n\nNow if we find a rational number between –1/10 and –5/10 it will also be between 0.3 and –0.5 since –0.2 lies between 0.3 and –0.5.\n\nTherefore, to find rational number z (let) between –1/10 and –5/10\nz = 1/2 (–1/10 + (–5)/10)\n⇒ z = 1/2 (–6/10)\n⇒ z = –3/10 = –0.2\n\nHence the numbers are –0.2, –0.1 and 0.1",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "B. –2.3 and –2.33",
+                  "ans": "–2.3 and –2.33\nTo find a rational number x between two rational numbers a/b and c/d, we use\nx = 1/2 (a/b + c/d)\n\nTherefore, to find rational number x (let) between –2.3 = –23/10 and –2.33 = –233/100\nx = 1/2 (–230/10 + (–233)/100)\n⇒ x = 1/2 (–463/100)\n⇒ x = –2.315\n\nNow if we find a rational number between –2.315 = –2315/1000 and –2.33 = –233/100 it will also be between –2.3 and –2.33 since –2.315 lies between –2.3 and –2.33\n\nTherefore, to find rational number y (let) between –2315/1000 and –233/100\ny = 1/2 (–2315/1000 + –233/1000)\n⇒ y = 1/2 (–4615/1000)\n⇒ y = –2.3075\n\nNow if we find a rational number between –2.315 = –2315/1000 and –2.33 = –233/100 it will also be between –2.3 and –2.33 since –2.315 lies between –2.3 and –2.33\n\nTherefore, to find rational number z (let) between –2315/1000 and –233/100\nz = 1/2 (–2315/1000 + –2330/1000)\n⇒ z = 1/2 (–4645/1000)\n⇒ z = –2.3225\n\nHence the numbers are –2.3225, –2.3075 and –2.315",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "C. 5.2 and 5.3",
+                  "ans": "5.2 and 5.3\nTo find a rational number x between two rational numbers a/b and c/d, we use\nx = 1/2 (a/b + c/d)\n\nTherefore, to find rational number x (let) between 5.2 = 52/10 and 5.3 = 53/10\nx = 1/2 (52/10 + 53/10)\n⇒ x = 1/2 (105/10)\n⇒ x = 5.25\n\nNow if we find a rational number between 5.25 = 525/100 and 5.2 = 52/10 it will also be between 5.2 and 5.3 since 5.25 lies between 5.2 and 5.3\n\nTherefore, to find rational number y (let) between 525/100 and 52/10\ny = 1/2 (525/100 + 520/100)\n⇒ y = 1/2 (1045/100)\n⇒ y = 5.225\n\nNow if we find a rational number between 5.25 = 525/100 and 5.3 = 53/10 it will also be between 5.2 and 5.3 since 5.25 lies between 5.2 and 5.3\n\nTherefore, to find rational number z (let) between 525/100 and 530/100\nz = 1/2 (525 + 530)/100\n⇒ z = 1/2 (1055/100)\n⇒ z = 5.275\n\nHence the numbers are 5.225, 5.25 and 5.275",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "D. –4.5 and 4.6",
+                  "ans": "–4.5 and 4.6\nTo find a rational number x between two rational numbers a/b and c/d, we use\nx = 1/2 (a/b + c/d)\n\nTherefore, to find rational number x (let) between –4.5 = –45/10 and 4.6 = 46/10\nx = 1/2 (–45/10 + 46/10)\n⇒ x = 1/2 (1/10)\n⇒ x = 0.05\nNow if we find a rational number between -4.5 = -45/10 and 0.05 = 5/100 it will also be between -4.5 and 4.6 since 0.05 is less than between -4.5 and 4.6\n\nTherefore, to find rational number y (let) between -4.5 = -45/10 and 0.05 = 5/100\n\ny = 1/2( -45/10 + 5/100 )\n\n= 1/2( -450/100 + 5/100 )\n\n= 1/2( -445/100 )\n\n= -445/200\n\n= y = -2.225\n\nNow if we find a rational number between -4.5 = -45/10 and 0.05 = 5/100\n\nTherefore, to find rational number z (let) between -4.6 = -46/10 and 0.05 = 5/100\n\nz = 1/2( -46/10 + 5/100 )\n\n= 1/2( -460/100 + 5/100 )\n\n= 1/2( -455/100 )\n\n= -455/200\n\n= z = -2.275\n\nHence the numbers are -2.225, 0.05 and 2.375",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+  "chapters": [
+    {
+      "chapterName": "2.3 Real Numbers - Surds",
+      "questions": [
+        {
+          "questionsTitle": "Q.1. State the order of the surds given below.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. ∛7",
+              "ans": "In this, the order of surd is 3.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. ∜12",
+              "ans": "In this, the order of surd is 4.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. ∜10",
+              "ans": "In this, the order of surd is 4.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. √39",
+              "ans": "In this, the order of surd is 2.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. ∛18",
+              "ans": "In this, the order of surd is 3.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.2. State which of the following are surds. Justify.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. ∛51",
+              "ans": "It is a surd: it cannot be expressed as a rational number.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. ∜51",
+              "ans": "It is a surd: it cannot be expressed as a rational number.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. ∜81 = ∜(3^4)",
+              "ans": "It is not a surd: it can be expressed as a rational number (3).",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. √256 = √(16^2) = 16",
+              "ans": "It is not a surd: it is a rational number.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. ∛64 = ∛(4^3) = 4",
+              "ans": "It is not a surd: it is a rational number.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "vi. √(22/7)",
+              "ans": "It is a surd: it cannot be expressed as a rational number.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.3. Classify the given pair of surds into like surds and unlike surds.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. √52, 5√13",
+              "ans": "√52 = √(2 × 2 × 13) = 2√13, 5√13, ∵ both surds have same surd-factor i.e., √13. ∴ they are like surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. √68, 5√3",
+              "ans": "√68 = √(2 × 2 × 17) = 2√17, 5√3, ∵ both surds have different surd-factors √17 and √3. ∴ they are unlike surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 4√18, 7√2",
+              "ans": "4√18 = 4√(2 × 3 × 3) = 4 × 3√2 = 12√2, 7√2, ∵ both surds have same surd-factor i.e., √2. ∴ they are like surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. 19√12, 6√3",
+              "ans": "19√12 = 19√(2 × 2 × 3) = 19 × 2√3 = 38√3, 6√3, ∵ both surds have same surd-factor i.e., √3. ∴ they are like surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. 5√22, 7√33",
+              "ans": "∵ both surds have different surd-factors √22 and √33. ∴ they are unlike surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "vi. 5√5, √75",
+              "ans": "5√5, √75 = √(5 × 5 × 3) = 5√3, ∵ both surds have different surd-factors √5 and √3. ∴ they are unlike surds.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.4. Simplify the following surds.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. √27",
+              "ans": "√27 = √(3 × 3 × 3) = √(3 × (3)^2) = 3√3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. √50",
+              "ans": "√50 = √(2 × 5 × 5) = √(2 × (5)^2) = 5√2",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. √250",
+              "ans": "√250 = √(2 × 5 × 5 × 5) = √(2 × 5 × (5)^2) = 5√10",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. √112",
+              "ans": "√112 = √(2 × 2 × 2 × 2 × 7) = √((2)^2 × (2)^2 × 7) = 4√7",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. √168",
+              "ans": "√168 = √(2 × 2 × 2 × 3 × 7) = √((2)^2 × 2 × 3 × 7) = 2√42",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.5. Compare the following pair of surds.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. 7√2, 5√3",
+              "ans": "(7√2)^2 = 98, (5√3)^2 = 75, 98 > 75 ∴ 7√2 > 5√3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. √247, √274",
+              "ans": "(√247)^2 = 247, (√274)^2 = 274, 247 < 274 ∴ √247 < √274",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 2√7, √28",
+              "ans": "(2√7)^2 = 28, (√28)^2 = 28, 28 = 28 ∴ 2√7 = √28",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. 5√5, 7√2",
+              "ans": "(5√5)^2 = 125, (7√2)^2 = 98, 125 > 98 ∴ 5√5 > 7√2",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. 4√42, 9√2",
+              "ans": "(4√42)^2 = 672, (9√2)^2 = 162, 672 > 162 ∴ 4√42 > 9√2",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "vi. 5√3, 9",
+              "ans": "(5√3)^2 = 75, (9)^2 = 81, 75 < 81 ∴ 5√3 < 9",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "vii. 7, 2√5",
+              "ans": "(7)^2 = 49, (2√5)^2 = 20, 49 > 20 ∴ 7 > 2√5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.6. Simplify.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. 5√3 + 8√3",
+              "ans": "5√3 + 8√3 = 13√3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. 9√5 - 4√5 + √ identification",
+              "ans": "9√5 - 4√5 + √(5 × 5 × 5) = 9√5 - 4√5 + 5√5 = 10√5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 7√48 - √27 - √3",
+              "ans": "7√(16 × 3) - √(9 × 3) - √3 = 28√3 - 3√3 - √3 = 24√3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. √7 - (3/5)√7 + 2√7",
+              "ans": "√7 - (3/5)√7 + 2√7 = (12/5)√7",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.7. Multiply and write the answer in the simplest form.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. 3√12 × √18",
+              "ans": "3√(4 × 3) × √(9 × 2) = 6√3 × 3√2 = 18√6",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. 3√12 × 7√15",
+              "ans": "3√(4 × 3) × 7√15 = 6√3 × 7√15 = 42√45 = 126√5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 3√8 × √5",
+              "ans": "3√(4 × 2) × √5 = 6√2 × √5 = 6√10",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. 5√8 × 2√8",
+              "ans": "5√(4 × 2) × 2√(4 × 2) = 10√2 × 4√2 = 40 × 2 = 80",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.8. Divide, and write the answer in simplest form.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. √98 ÷ √2",
+              "ans": "√(98/2) = √49 = 7",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. √125 ÷ √50",
+              "ans": "√(125/50) = √(5/2)",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. √54 ÷ √27",
+              "ans": "√(54/27) = √2",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. √310 ÷ √5",
+              "ans": "√(310/5) = √62",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.9. Rationalize the denominator.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. 3/√5",
+              "ans": "(3/√5) × (√5/√5) = (3√5)/5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. 1/√14",
+              "ans": "(1/√14) × (√14/√14) = √14/14",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 5/√7",
+              "ans": "(5/√7) × (√7/√7) = (5√7)/7",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. 6/(9√3)",
+              "ans": "(6/(9√3)) × (√3/√3) = (2√3)/9",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "v. 11/√3",
+              "ans": "(11/√3) × (√3/√3) = (11√3)/3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
         }
+      ]
+    },
+    {
+      "chapterName": "2.4 Surds and Indices",
+      "questions": [
+        {
+          "questionsTitle": "Q.1. Multiply",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. √3(√7 − √3)",
+              "ans": "√3 × √7 − √3 × √3 = √21 − 3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. (√5 − √7)√2",
+              "ans": "√5 × √2 − √7 × √2 = √10 − √14",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. (3√2 − √3)(4√3 − √2)",
+              "ans": "12√6 − 6 − 12 + √6 = 13√6 − 18",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.2. Rationalize the denominator",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. 1 / (√7 + √2)",
+              "ans": "(√7 − √2) / 5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. 3 / (2√5 − 3√2)",
+              "ans": "(6√5 + 9√2) / 2",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. 4 / (7 + 4√3)",
+              "ans": "28 − 16√3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. (√5 − √3) / (√5 + √3)",
+              "ans": "4 − √15",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterName": "2.5 Absolute Value",
+      "questions": [
+        {
+          "questionsTitle": "Q.1. Find the value.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. |15 − 2|",
+              "ans": "13",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. |4 − 9|",
+              "ans": "5",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. |7| × |−4|",
+              "ans": "28",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        },
+        {
+          "questionsTitle": "Q.2. Solve.",
+          "questionsImage": null,
+          "subQuestion": [
+            {
+              "question": "i. |3x − 5| = 1",
+              "ans": "x = 2 or x = 4/3",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "ii. |7 − 2x| = 5",
+              "ans": "x = 1 or x = 6",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iii. |(8 − x)/2| = 5",
+              "ans": "x = −2 or x = 18",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            },
+            {
+              "question": "iv. |(5 + x)/4| = 5",
+              "ans": "x = 15 or x = −25",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
         
       ]
     }
