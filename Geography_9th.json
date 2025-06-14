@@ -101,14 +101,14 @@
               ]
             },
             {
-              "questionsTitle": "Differentiate between choropleth and isopleth methods",
-              "questionsImage": null,
-              "subQuestion": [
+              "question": "Differentiate between choropleth and isopleths methods.",
+              "ans": "Choropleth and Isopleth maps are two different forms of distributional maps that are used to represent various geographical elements in a region. At first glance, they may look similar but the methodology behind them is completely different and they also utilize different data. The following table differentiates between the two methods.",
+              "youtubeVideoPath": null,
+              "imgUrl": null,
+              "subAns": [
                 {
                   "question": "Differentiate between Choropleth and Isopleth methods based on the following points.",
-                  "ans": "Choropleth and Isopleth maps are two different forms of distributional maps that are used to represent various geographical elements in a region. At first glance, they may look similar but the methodology behind them is completely different and they also utilize different data. The following table differentiates between the two methods.",
-                  "youtubeVideoPath": null,
-                  "imgUrl": null,
+                  "ans": "",
                   "subAns": [
                     {
                       "Choropleth Method": "The data for different geographical variables is represented by either shades of the same color or by different colors.",
@@ -134,11 +134,12 @@
                       "Choropleth Method": "Mainly used for varying data like population density, distribution etc.",
                       "Isopleth Method": "Mainly used for continuous data like temperature, rainfall, altitude etc."
                     }
-                  ]
+                  ],
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
                 }
               ]
-            },
-            {
+            }, {
               "questionsTitle": "Answer in brief",
               "questionsImage": null,
               "subQuestion": [
@@ -193,7 +194,7 @@
               ]
             },
             {
-              "questionsTitle": "Interpretation based on map",
+              "questionsTitle": "4.Interpretation based on map",
               "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/507982733_122117412458866734_9172250320955275351_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zSok4LD38LUQ7kNvwGsiGbd&_nc_oc=AdlZ1wg-Xz7yx0LbbBYbzyUWiSWhI-PObh0ajihtp-lT_uYMq7pKPSu20Dd_Z4itNCQ&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=AJ5ZlvLkvK8YscqcVJjQhw&oh=00_AfPrbaAzGPaR8HVTaDFg98r-x10wtPhsQtndw6D3vq6jNQ&oe=685312E8",
               "subQuestion": [
                 {
