@@ -1,88 +1,119 @@
 {
   "list1": [
     {
-      "uid": "1",
       "subjectName": "English",
       "chapter part 1": [
         {
-         "chapterName": "English 1",
+          "chapterName": "Life",
           "questions": [
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "blob:https://web.whatsapp.com/46dcee11-b3c9-44d0-b383-a00d1c54b4c1"
+              "questionsTitle": "A1. Simple Factual Activity: Say whether the following statements are True or False",
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506479561_122117849966866734_3213138432478242698_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tEJfScqVvqUQ7kNvwEiDJST&_nc_oc=AdkFGIRjbndL8UdhREXifmOkpzsoXZInCnJeCAaMWpr2zg7YM2AB-HDr_m0MJ59M--g&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=ryVgibVjsPaEy-943HgdbQ&oh=00_AfMfdt6DS0H3aa3rpNsChkJXzDkYvLYhD0_R5lxlO9uICQ&oe=6854A3A6",
+              "subQuestion": [
+                {
+                  "question": "(1) The sages say that life is a dark dream.",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) The clouds of gloom are permanent.",
+                  "ans": "False",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3) We must enjoy the happy hours of our life.",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(4) Life's sunny hours flit by quickly.",
+                  "ans": "True",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://scontent.fisb17-1.fna.fbcdn.net/v/t39.30808-6/494126150_122159986076526319_7558456471528205693_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGjdW8LBpOjILTPH_uXM1Jxy0PB6wAQalLLQ8HrABBqUmlJKS9W1wDX5JHXhNPDrI8CVXTFiqimuC4nq-eQ0SQ-&_nc_ohc=qUSH7YtETiAQ7kNvwEavUmP&_nc_oc=AdmaQaZObLe6bMdbC8dH35dFajehzQ-fGZphwWVX3trFGUy6kL2uSMqf5k2zgBYw74eB2f48S_oi6pNkRr2n3P1f&_nc_zt=23&_nc_ht=scontent.fisb17-1.fna&_nc_gid=GiZtUUTKAEBNhrlM1pNztA&oh=00_AfGVUjdJBh_g7npbIUwkDlBCWMdZ-6aovY6aqNSxiideAQ&oe=681A8E0A"
-            }
-          ]
-        },
-        {
-          "chapterName": "English 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "A2. Complex Factual Activities",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) What do the sages say?",
+                  "ans": "The sages say that life is a dark dream.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) What does the rain often foretell?",
+                  "ans": "The rain often foretells a pleasant day.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(3) What should we do during the joyful times in life?",
+                  "ans": "We should enjoy the joyful times of our life gratefully and cheerfully.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(4) Complete the following: We should not be unhappy when we have difficulties because ……",
+                  "ans": "We should not be unhappy when we have difficulties because these difficulties are temporary. If we have difficulties at some stage in our lives, there will be joyous times following it later.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             },
             {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        },
-        {
-          "chapterName": "English 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            }
-          ]
-        }
-      ],
-      "chapter part 2": [
-        {
-         "chapterName": "English 1",
-          "questions": [
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            },
-            {
-              "question": "What is your name",
-              "ans": "my name is Muhammad Adnan",
-              "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-              "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              "questionsTitle": "A3. Activities based on Poetic Devices",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) Pick out from the extract two lines each that reflect an optimistic (positive) attitude and pessimistic (negative) attitude.",
+                  "ans": "Optimism:\n(1) Foretells a pleasant day.\n(2) But these are transient all.\nPessimism:\n(1) Oft a little morning rain.\n(2) Sometimes there are clouds of gloom.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2a) Explain the metaphor in the following lines: Oft a little morning rain Foretells a pleasant day.",
+                  "ans": "If we have difficulties at some stage, there will be joyous times following it. Difficulties are implicitly compared to rain and joyous times to a pleasant day.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2b) Explain the metaphor: Sometimes there are clouds.",
+                  "ans": "Sometimes there are problems. Problems are implicitly compared to clouds.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2c) Explain the metaphor: …the shower will make the roses bloom.",
+                  "ans": "The problems we face will make for better times ahead. Problems are implicitly compared to the showers of rain and better times are implicitly compared to roses blooming.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2d) Explain the metaphor: Life's sunny hours flit by.",
+                  "ans": "The happy times of our life go by very quickly. Here, the happy times are implicitly compared to sunny hours.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
             }
           ]
         }
