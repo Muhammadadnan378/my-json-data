@@ -186,7 +186,10 @@
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": [
-                    
+                     {
+                      "Interrogation": "(1) What though death at times steps in, And calls our Best away? (2) What though Sorrow seems to win, O'er hope a heavy sway?",
+                      "Explanation": "(1) If death, at times takes away the people we love most. We must accept it and hope for better times. (2) It does not matter if we are overcome by sorrow and hope seems to be far away."
+                    }
                   ]
                 }
               ]
