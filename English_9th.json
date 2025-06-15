@@ -112,12 +112,19 @@
                   "youtubeVideoPath": null,
                   "imgUrl": null,
                   "subAns": null
+                },
+                 {
+                  "question": "(2e) Pick out an example of interrogation (rhetorical question) from the extract. Explain in your own words the point that it makes.",
+                  "ans": "Interrogation : If the shower will make the roses bloom. Oh, why lament its fall? /n Explanation: If a little rain helps , the roses to flower, weshould not feel unhappyabout it. Thismeansthat we must not expressregret for the difficultieswe face in life.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
                 }
               ]
             },
               {
               "questionsTitle": "Simple Factual Activity - Complete the following",
-              "questionsImage": null,
+              "questionsImage": "https://scontent.fbom11-1.fna.fbcdn.net/v/t39.30808-6/506709382_122117874800866734_8904150196504247023_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=j3c6vIreWRQQ7kNvwE6Kr1A&_nc_oc=AdmWa6bZ3YodhRsdwbw9880WE9-PZ2y2LDZ7vAJ4Y63EN9CQI0Mqs7cMzlXGKdUmxqo&_nc_zt=23&_nc_ht=scontent.fbom11-1.fna&_nc_gid=vnB-Kttbcn1_RAj8Id_B1A&oh=00_AfMxBQvgKstEsBf5z1KhC4TV2uFENAg4xOQ6NXdbbE3uhQ&oe=6854D6A9",
               "subQuestion": [
                 {
                   "question": "(1) One should bear the day of trial _______ and _______.",
