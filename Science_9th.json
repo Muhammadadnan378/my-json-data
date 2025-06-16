@@ -104,7 +104,7 @@
                   "ans": "",
                   "subAns": [
                     {
-                      "Column 1: "Column I",
+                      "Column 1": "Column I",
                       "Column 2": "Column II",
                       "Column 3": "Column III"
                     },
