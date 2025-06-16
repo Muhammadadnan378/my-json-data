@@ -79,23 +79,25 @@
                   "imgUrl": null,
                   "subAns": [
                     {
-                      "Type": "Dot Maps",
-                      "Methodology and usage": "Uses dots to represent pre-calculated values of chosen variable. Dots should be uniform in size corresponding to their index. Dot placement is dependent on presence of natural and man-made features. Used for variables scattered across the region.",
-                      "Advantages": "Easy to read maps. Clear patterns with proper methodology. Multi-colored dots allow study of related phenomena.",
-                      "Disadvantages": "Improper methodology leads to human error. Dense dots can distort results."
+                      "Column 1": "Dot Maps",
+                      "Column 2": "Choropleth Maps",
+                      "Column 3": "Isopleth Maps",
                     },
                     {
-                      "Type": "Choropleth Maps",
-                      "Methodology and usage": "Data is shown using shades or colors. Each sub-region has one value. Data divided into classes based on range; darker shades indicate higher values.",
-                      "Advantages": "Popular and easy to read and interpret.",
-                      "Disadvantages": "Cannot represent continuous data. Limited to administrative boundaries."
+                      "Column 1": "Uses dots to represent pre-calculated values of chosen variable. Dots should be uniform in size corresponding to their index. Dot placement is dependent on presence of natural and man-made features. Used for variables scattered across the region.",
+                      "Column 2": "Data is shown using shades or colors. Each sub-region has one value. Data divided into classes based on range; darker shades indicate higher values.",
+                      "Column 3": "Uses isolines joining places with same data (e.g. equal rainfall). Areas between isolines are colored to show variation."
+                    },
+                     {
+                      "Column 1": "Easy to read maps. Clear patterns with proper methodology. Multi-colored dots allow study of related phenomena.",
+                      "Column 2": "Popular and easy to read and interpret.",
+                      "Column 3": "Best for showing gradual change in variables like temperature, rainfall, altitude."
                     },
                     {
-                      "Type": "Isopleth Maps",
-                      "Methodology and usage": "Uses isolines joining places with same data (e.g. equal rainfall). Areas between isolines are colored to show variation.",
-                      "Advantages": "Best for showing gradual change in variables like temperature, rainfall, altitude.",
-                      "Disadvantages": "Not suitable for unevenly distributed variables like forest cover or agriculture."
-                    }
+                      "Column 1": "Improper methodology leads to human error. Dense dots can distort results.",
+                      "Column 2": "Cannot represent continuous data. Limited to administrative boundaries.",
+                      "Column 3": "Not suitable for unevenly distributed variables like forest cover or agriculture."
+                    },
                   ]
                 }
               ]
@@ -106,39 +108,35 @@
               "youtubeVideoPath": null,
               "imgUrl": null,
               "subAns": [
-                {
-                  "question": "Differentiate between Choropleth and Isopleth methods based on the following points.",
-                  "ans": "",
-                  "subAns": [
                     {
-                      "Choropleth Method": "The data for different geographical variables is represented by either shades of the same color or by different colors.",
-                      "Isopleth Method": "The data for the variable under study is demarcated by isolines which are lines joining the places having the same value."
+                      "Column 1": "Column 1",
+                      "Column 2": "Column 2"
                     },
                     {
-                      "Choropleth Method": "Continuous or varying data can be used for mapping purposes.",
-                      "Isopleth Method": "Only continuous data is used."
+                      "Column 1": "The data for different geographical variables is represented by either shades of the same color or by different colors.",
+                      "Column 2": "The data for the variable under study is demarcated by isolines which are lines joining the places having the same value."
                     },
                     {
-                      "Choropleth Method": "Administrative boundaries define data boundary and hence continuous data may be misrepresented.",
-                      "Isopleth Method": "Administrative boundaries do not define data boundary. Data boundary is defined by isolines."
+                      "Column 1": "Continuous or varying data can be used for mapping purposes.",
+                      "Column 2": "Only continuous data is used."
                     },
                     {
-                      "Choropleth Method": "Smallest and largest values of given data are used to classify the data range into acceptable classes.",
-                      "Isopleth Method": "Places having same data value determine the drawing of isolines. The range is determined by the difference in these isolines."
+                      "Column 1": "Administrative boundaries define data boundary and hence continuous data may be misrepresented.",
+                      "Column 2": "Administrative boundaries do not define data boundary. Data boundary is defined by isolines."
                     },
                     {
-                      "Choropleth Method": "Color gradient or pattern allows map interpretation. Deeper the color, higher the value of data under study.",
-                      "Isopleth Method": "Placement of lines allows map interpretation. Closer the isolines, steeper the data distribution."
+                      "Column 1": "Smallest and largest values of given data are used to classify the data range into acceptable classes.",
+                      "Column 2": "Places having same data value determine the drawing of isolines. The range is determined by the difference in these isolines."
                     },
                     {
-                      "Choropleth Method": "Mainly used for varying data like population density, distribution etc.",
-                      "Isopleth Method": "Mainly used for continuous data like temperature, rainfall, altitude etc."
+                      "Column 1": "Color gradient or pattern allows map interpretation. Deeper the color, higher the value of data under study.",
+                      "Column 2": "Placement of lines allows map interpretation. Closer the isolines, steeper the data distribution."
+                    },
+                    {
+                      "Column 1": "Mainly used for varying data like population density, distribution etc.",
+                      "Column 2": "Mainly used for continuous data like temperature, rainfall, altitude etc."
                     }
                   ],
-                  "youtubeVideoPath": null,
-                  "imgUrl": null
-                }
-              ]
             }, {
               "questionsTitle": "Answer in brief",
               "questionsImage": null,
