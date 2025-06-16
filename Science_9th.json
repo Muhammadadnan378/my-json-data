@@ -104,6 +104,11 @@
                   "ans": "",
                   "subAns": [
                     {
+                      "Column I": "Column I",
+                      "Column II": "Column II",
+                      "Column III": "Column III"
+                    },
+                    {
                       "Column I": "Negative acceleration",
                       "Column II": "The velocity of the object decreases",
                       "Column III": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
