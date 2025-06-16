@@ -115,8 +115,8 @@
                   "imgUrl": null,
                   "subAns": [
                 {
-                  "Column 1": "Column 1",
-                  "Column 2": "Column 2"
+                  "Column 1": "Choropleth",
+                  "Column 2": "Isopleth"
                 },
                 {
                   "Column 1": "The data for different geographical variables is represented by either shades of the same color or by different colors.",
