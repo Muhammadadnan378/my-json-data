@@ -107,7 +107,13 @@
               "ans": "Choropleth and Isopleth maps are two different forms of distributional maps that are used to represent various geographical elements in a region. At first glance, they may look similar but the methodology behind them is completely different and they also utilize different data. The following table differentiates between the two methods.",
               "youtubeVideoPath": null,
               "imgUrl": null,
-              "subAns": [
+              "subQuestion": [
+                {
+                  "question": "Explain with reasons the method which is best suited to show the distribution of population in a region.",
+                  "ans": "Population refers to the number of people residing in a clearly demarcated geographic area. Often for purpose of study, this demarcated area is on the basis of administrative divisions. Thus, the number of people living at a given point of time in a country, state, district, village, etc. refers to the population of the area. Two types of thematic maps can be used for showing the population distribution of any given area. These are dot distribution maps and choropleth maps.\n\nDot distribution maps - Uses dots to represent pre-calculated values of chosen variable. The value of each dot is calculated based on the highest and lowest recorded population data. Dots used should be uniform in size corresponding to their index. Dot placement is dependent on presence of natural and man-made features like rivers, roads etc. This method makes it easy to read maps and allows for a precise interpretation of population distribution in a given area. But with increasing density, the map loses its efficiency.\n\nChoropleth maps - The population data for different geographical areas is represented by either shades of the same color or by different colors. Every subadministrative region has one assigned value. Data is divided in classes after ascertaining the highest and lowest values; with each class getting a particular shade. The shade becomes darker with increasing values of the given variables. Administrative boundaries play a vital role in this form of maps. Since classes are used for data division, population density is often represented through these maps.\n\nFrom the above discussion, it is evident that dot distribution maps are ideal for representing population distribution of an area as the data collected is defined by administrative boundaries. Only with increasing density, choropleth maps should be used to represent a clearer picture.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": [
                 {
                   "Column 1": "Column 1",
                   "Column 2": "Column 2"
@@ -135,6 +141,8 @@
                 {
                   "Column 1": "Mainly used for varying data like population density, distribution etc.",
                   "Column 2": "Mainly used for continuous data like temperature, rainfall, altitude etc."
+                }
+              ]
                 }
               ]
             },
