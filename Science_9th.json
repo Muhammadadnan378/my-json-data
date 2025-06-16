@@ -104,24 +104,24 @@
                   "ans": "",
                   "subAns": [
                     {
-                      "Column I": "Column I",
-                      "Column II": "Column II",
-                      "Column III": "Column III"
+                      "Column 1: "Column I",
+                      "Column 2": "Column II",
+                      "Column 3": "Column III"
                     },
                     {
-                      "Column I": "Negative acceleration",
-                      "Column II": "The velocity of the object decreases",
-                      "Column III": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
+                      "Column 1": "Negative acceleration",
+                      "Column 2": "The velocity of the object decreases",
+                      "Column 3": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
                     },
                     {
-                      "Column I": "Positive acceleration",
-                      "Column II": "The velocity of the object increases",
-                      "Column III": "A car, initially at rest, reaches a velocity of 50 km/h in 10 seconds"
+                      "Column 1": "Positive acceleration",
+                      "Column 2": "The velocity of the object increases",
+                      "Column 3": "A car, initially at rest, reaches a velocity of 50 km/h in 10 seconds"
                     },
                     {
-                      "Column I": "Zero acceleration",
-                      "Column II": "The velocity of the object remains constant",
-                      "Column III": "A vehicle is moving with a velocity of 25 m/s"
+                      "Column 1": "Zero acceleration",
+                      "Column 2": "The velocity of the object remains constant",
+                      "Column 3": "A vehicle is moving with a velocity of 25 m/s"
                     }
                   ],
                   "youtubeVideoPath": null,
