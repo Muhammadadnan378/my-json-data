@@ -1,20 +1,470 @@
 {
   "list1": [
     {
-      "subjectName": "Hindi",
+      "subjectName": "Hindi_Literature",
       "chapter part 1": [
         {
-         "chapterName": "Hindi 1",
+          "chapterName": "चाँदनी रात पद्यांश - भाग 2",
+          "questionSet": "Q1",
           "questions": [
             {
-              "questionsTitle": "Question App Inspirational designs, illustrations, and graphic elements from the world's best designers. Want more inspiration?",
-              "questionsImage": "https://media.istockphoto.com/id/2169040419/photo/ux-ui-designers-discussing-and-brainstorming-on-wireframes-for-a-website-and-mobile-app.jpg?s=1024x1024&w=is&k=20&c=9YcElt_Wy_i6SLN81hdPPqeO_xcnGX7AkNWs20H4XXM=",
+              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsImage": null,
               "subQuestion": [
                 {
-                  "question": "What is your name",
-                  "ans": "my name is Muhammad Adnan",
-                  "youtubeVideoPath": "https://www.youtube.com/shorts/ya5oXxJOwZE?feature=share",
-                  "imgUrl": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  "question": "चाँदनी रात की विशेषताएँ",
+                  "ans": "किरणों का खेलना, स्वच्छ चाँदनी, हरी घास का लहराना, मंद पवन चलना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "किरणों के खेलने का स्थान",
+                  "ans": "जल, थल (भूमि)",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "यहाँ-यहाँ फैली हुई है चाँदनी",
+                  "ans": "पृथ्वी पर, आकाश में",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "धरती खुशी व्यक्त करती है",
+                  "ans": "हरी घास की नोकों से",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "जिससे पेड़ झूमते हैं",
+                  "ans": "पवन के झोंकों से",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "पद्यांश में आया सौर-मंडल का प्रसिद्ध ग्रह",
+                  "ans": "पृथ्वी",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "सुंदर कहा गया है जिसे, वह",
+                  "ans": "चंद्र",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : चंद्र",
+                  "ans": "चंद्रमा",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : पवन",
+                  "ans": "हवा",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के वचन बदलकर लिखिए : कणों",
+                  "ans": "कण",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के वचन बदलकर लिखिए : नोकों",
+                  "ans": "नोक",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "पद्यांश की आरंभ की चार पंक्तियों का सरल अर्थ 25 से 30 शब्दों में लिखिए",
+                  "ans": "चाँदनी रात में आकाश में सुंदर चंद्रमा शोभायमान है। उसकी चंचल किरणें झिलमिल-झिलमिल करती हुई अठखेलियाँ कर रही हैं। ऐसा लगता है, जैसे वह जल और जमीन के साथ खेल रही हों। चंद्रमा का निर्मल प्रकाश पृथ्वी पर और सम्पूर्ण नभ मंडल में फैला हुआ है और वह उन्हें प्रकाशित कर रहा है।",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "चाँदनी रात - भाग 1",
+          "questionSet": "Q2",
+          "questions": [
+            {
+              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "आकृति पूर्ण कीजिए : कवि की कल्पना में हैं - चाँदनी",
+                  "ans": "स्वच्छ",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकृति पूर्ण कीजिए : कवि की कल्पना में हैं - रात्रि",
+                  "ans": "निस्तब्ध",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकृति पूर्ण कीजिए : चाँदनी रात की विशेषताएँ",
+                  "ans": "स्वच्छंद-सुगंध गंध, हरीत दिशाएँ",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकृति पूर्ण कीजिए : नियति नटी के कार्य का ढंग",
+                  "ans": "एकांत भाव, शांत और चुपचाप",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ऐसे दो प्रश्न बनाकर लिखिए, जिनके उत्तर निम्नलिखित शब्द हों : गंध",
+                  "ans": "स्वच्छंद-सुगंध क्या है?",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ऐसे दो प्रश्न बनाकर लिखिए, जिनके उत्तर निम्नलिखित शब्द हों : कार्य-कलाप",
+                  "ans": "नियति नटी के अब भी क्या चलते हैं?",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "निम्नलिखित शब्दसमूहों के लिए पद्यांश में प्रयुक्त शब्द खोजकर लिखिए : जिसमें आनंद न हो",
+                  "ans": "निरानंद",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दसमूहों के लिए पद्यांश में प्रयुक्त शब्द खोजकर लिखिए : जो अपनी इच्छा के अनुसार सब काम करे",
+                  "ans": "स्वच्छंद",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "पद्यांश से उपसर्ग जुड़े दो शब्द ढूँढकर उपसर्ग एवं शब्द अलग-अलग लिखिए : सुगंध",
+                  "ans": "सु + गंध",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "पद्यांश से उपसर्ग जुड़े दो शब्द ढूँढकर उपसर्ग एवं शब्द अलग-अलग लिखिए : निरानंद",
+                  "ans": "नि + आनंद",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "पद्यांश की प्रथम चार पंक्तियों का सरल अर्थ 25 से 30 शब्दों में लिखिए",
+                  "ans": "कवि चंद्रमा के स्वच्छ प्रकाश में निखरी हुई रात का वर्णन करते हैं। वह कहते हैं कि यह चाँदनी रात निर्मल और शांत है। चारों ओर मंद-मंद सुगंध फैली है और सर्वत्र आनंद का वातावरण है।",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "चाँदनी रात - तारों का वर्णन",
+          "questionSet": "Q3",
+          "questions": [
+            {
+              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "सवाल पूर्ण कीजिए : तारों के उदित और अस्त होने के बारे में कल्पना",
+                  "ans": "पृथ्वी द्वारा मोती बिछाना, सूर्य का संध्या को मोतियाँ देना, मोतियों से संध्या का रूप छलकना, सूर्य द्वारा मोतियों का बटेर लिया जाना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकलन पूर्ण कीजिए : पद्यांश में आया एक बहुमूल्य रत्न",
+                  "ans": "मोती",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकलन पूर्ण कीजिए : कवि के कल्पनानुसार संध्या होने पर सूर्य का नियमित काम",
+                  "ans": "मोतियों (तारों) को बटोरना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकलन पूर्ण कीजिए : रात के समय पृथ्वी का अनुपम कार्य",
+                  "ans": "सर्वत्र सोने पर मोती बिछाना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकलन पूर्ण कीजिए : चाँदनी रात की विशेषताएँ",
+                  "ans": "स्वच्छ चाँदनी, मोती (तारे), बिछाना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "उत्तर लिखिए : रवि को विश्राम देने वाली",
+                  "ans": "संध्या",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "उत्तर लिखिए : चाँद-तारों से छलकता है",
+                  "ans": "संध्या का नया रूप",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "निम्नलिखित शब्दों के लिंग पहचानकर लिखिए : वसुंधरा",
+                  "ans": "स्त्रीलिंग",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के लिंग पहचानकर लिखिए : रवि",
+                  "ans": "पुल्लिंग",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के लिंग पहचानकर लिखिए : संध्या",
+                  "ans": "स्त्रीलिंग",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के लिंग पहचानकर लिखिए : मोती",
+                  "ans": "पुल्लिंग",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के विपरीतार्थी शब्द लिखिए : बिछेना",
+                  "ans": "बटोरना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के विपरीतार्थी शब्द लिखिए : सोना",
+                  "ans": "जागना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के विपरीतार्थी शब्द लिखिए : संध्या",
+                  "ans": "प्रातः",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के विपरीतार्थी शब्द लिखिए : नया",
+                  "ans": "पुराना",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "उपर्युक्त पद्यांश की प्रथम चार पंक्तियों का 25 से 30 शब्दों में सरल अर्थ लिखिए",
+                  "ans": "कवि चाँद-तारों की तुलना मोतियों से करते हुए कहते हैं कि जब सब लोग सो जाते हैं, तो पृथ्वी आकाश में चाँद-तारों के रूप में मोती बिछा देती है। जब सवेरा होता है तो ऐसा लगता है जैसे सूर्य इन मोतियों को हमेशा बटोर ले जाता हो। अर्थात सुबह उजाला हो जाने पर आकाश में चाँद-तारे लुप्त होते जाते हैं।",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterName": "चाँदनी रात - पंचवटी वर्णन",
+          "questionSet": "Q4",
+          "questions": [
+            {
+              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "आकृति पूर्ण कीजिए : पंचवटी की दो वस्तुएं",
+                  "ans": "पूर्ण कुटीर, स्वच्छ शिला",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकृति पूर्ण कीजिए : धनुर्धर का रूप",
+                  "ans": "योगी जैसा",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "आकृति पूर्ण कीजिए : धनुर्धर की विशेषता",
+                  "ans": "शूर-वीर, निर्मल",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ऐसे दो प्रश्न बनाकर लिखिए जिनके उत्तर निम्नलिखित शब्द हों : पूर्ण कुंडिता",
+                  "ans": "पंचवटी की छाया में क्या बनी है?",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "ऐसे दो प्रश्न बनाकर लिखिए जिनके उत्तर निम्नलिखित शब्द हों : धनुर्धर",
+                  "ans": "कौन खड़ा रहा?",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के अर्थ वाले शब्द पद्यांश से खोजकर लिखिए : काला",
+                  "ans": "श्याम",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के अर्थ वाले शब्द पद्यांश से खोजकर लिखिए : झोंपड़ी",
+                  "ans": "पूर्ण कुटीर",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : स्वच्छ",
+                  "ans": "साफ",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : कुंड",
+                  "ans": "कुंडा, झोंपड़ी",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : निर्मल",
+                  "ans": "निरज",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दों के समानार्थी शब्द लिखिए : धनुर्धर",
+                  "ans": "धनुर्वीर, सुपार्श्व",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दसमूहों के लिए पद्यांश से चयनित एक शब्द लिखिए : धनुष चलाने में निपुण व्यक्ति",
+                  "ans": "धनुर्धर",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "निम्नलिखित शब्दसमूहों के लिए पद्यांश से चयनित एक शब्द लिखिए : पत्थर की पीठ का बड़ा टुकड़ा",
+                  "ans": "शिला",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "उपर्युक्त पद्यांश की अंतिम चार पंक्तियों का सरल अर्थ 25 से 30 शब्दों में लिखिए",
+                  "ans": "कवि कहते हैं कि इस सुनसान संसार में सारे लोग सो जाते हैं, पर एक धनुर्धर सजग है, जो कुटिया के पास पहरा देता है। वह कहता है कि यह कुटिया कोई सामान्य स्थान नहीं, बल्कि तपस्वियों का पवित्र स्थान है।",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
                 }
               ]
             }
