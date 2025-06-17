@@ -1,14 +1,13 @@
 {
   "list1": [
     {
-      "subjectName": "Hindi_Literature",
+      "subjectName": "Hindi",
       "chapter part 1": [
         {
-          "chapterName": "चाँदनी रात पद्यांश - भाग 2",
-          "questionSet": "Q1",
+          "chapterName": "चाँदनी रात",
           "questions": [
             {
-              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsTitle": "Q1 - कृति 1 : (आकलन)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -63,7 +62,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsTitle": "Q1 - कृति 2 : (शब्द संपदा)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -97,7 +96,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsTitle": "Q1 - कृति 3 : (सरल अर्थ)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -108,15 +107,9 @@
                   "subAns": null
                 }
               ]
-            }
-          ]
-        },
-        {
-          "chapterName": "चाँदनी रात - भाग 1",
-          "questionSet": "Q2",
-          "questions": [
+            },
             {
-              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsTitle": "Q2 - कृति 1 : (आकलन)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -164,7 +157,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsTitle": "Q2 - कृति 2 : (शब्द संपदा)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -198,7 +191,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsTitle": "Q2 - कृति 3 : (सरल अर्थ)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -209,15 +202,9 @@
                   "subAns": null
                 }
               ]
-            }
-          ]
-        },
-        {
-          "chapterName": "चाँदनी रात - तारों का वर्णन",
-          "questionSet": "Q3",
-          "questions": [
+            },
             {
-              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsTitle": "Q3 - कृति 1 : (आकलन)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -272,7 +259,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsTitle": "Q3 - कृति 2 : (शब्द संपदा)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -334,7 +321,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsTitle": "Q3 - कृति 3 : (सरल अर्थ)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -345,15 +332,9 @@
                   "subAns": null
                 }
               ]
-            }
-          ]
-        },
-        {
-          "chapterName": "चाँदनी रात - पंचवटी वर्णन",
-          "questionSet": "Q4",
-          "questions": [
+            },
             {
-              "questionsTitle": "कृति 1 : (आकलन)",
+              "questionsTitle": "Q4 - कृति 1 : (आकलन)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -408,7 +389,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 2 : (शब्द संपदा)",
+              "questionsTitle": "Q4 - कृति 2 : (शब्द संपदा)",
               "questionsImage": null,
               "subQuestion": [
                 {
@@ -456,7 +437,7 @@
               ]
             },
             {
-              "questionsTitle": "कृति 3 : (सरल अर्थ)",
+              "questionsTitle": "Q4 - कृति 3 : (सरल अर्थ)",
               "questionsImage": null,
               "subQuestion": [
                 {
