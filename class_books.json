@@ -1,6 +1,9 @@
 {
   "classBooksMap": {
-    "4th": ["Hindi"],
+    "4th": [
+      "Hindi",
+      "Science_2"
+    ],
     "5th": ["English"],
     "6th": ["History"],
     "7th": ["Science"],
@@ -16,7 +19,10 @@
     "10th": ["Marathi"]
   },
   "classBooksMapName": {
-    "4th": ["Hindi"],
+    "4th": [
+      "Hindi",
+      "Science_2"
+    ],
     "5th": ["English"],
     "6th": ["History"],
     "7th": ["Science"],
