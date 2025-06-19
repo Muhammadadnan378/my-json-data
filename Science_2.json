@@ -1,0 +1,189 @@
+{
+  "list1": [
+    {
+      "subjectName": "Science_2",
+      "chapter part 1": [
+        {
+          "chapterName": "1.Law of Motion",
+          "questions": [
+            {
+              "questionsTitle": "Complete the sentences",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) The minimum distance between the start and finish points of the motion of an object is called the ________.",
+                  "ans": "displacement of the object.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) ________ is negative acceleration.",
+                  "ans": "Deceleration",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Complete the following table with correct calculations (Motion Formulas)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1)(i) Given: u = 2, a = 4, t = 3. Find v using v = u + at",
+                  "ans": "v = 2 + 4 × 3 = 2 + 12 = 14 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(1)(ii) Given: a = 5, t = 2, v = 20. Find u using u = v - at",
+                  "ans": "u = 20 - 5 × 2 = 20 - 10 = 10 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Match the columns",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Match the following based on acceleration types and scenarios.",
+                  "ans": "",
+                  "subAns": [
+                    {
+                      "Column 1": "Column I",
+                      "Column 2": "Column II",
+                      "Column 3": "Column III"
+                    },
+                    {
+                      "Column 1": "Negative acceleration",
+                      "Column 2": "The velocity of the object decreases",
+                      "Column 3": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
+                    }
+                  ],
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Give scientific reasons",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) The velocity of an object at rest is considered to be uniform.",
+                  "ans": "(1) The velocity of an object at rest is always zero.\n(2) Thus, it does not change with time. Hence, it is considered to be uniform.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) When an object falls freely to the ground, its acceleration is uniform.",
+                  "ans": "(1) When an object falls freely, the only force acting on the object is that due to the earth’s gravity.\n(2) Near the earth’s surface, this force on a given object is practically uniform. Hence, an object falling freely to the ground has almost a uniform acceleration.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "chapter part 1": [
+        {
+          "chapterName": "1.Law of Motion",
+          "questions": [
+            {
+              "questionsTitle": "Complete the sentences",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) The minimum distance between the start and finish points of the motion of an object is called the ________.",
+                  "ans": "displacement of the object.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) ________ is negative acceleration.",
+                  "ans": "Deceleration",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Complete the following table with correct calculations (Motion Formulas)",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1)(i) Given: u = 2, a = 4, t = 3. Find v using v = u + at",
+                  "ans": "v = 2 + 4 × 3 = 2 + 12 = 14 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(1)(ii) Given: a = 5, t = 2, v = 20. Find u using u = v - at",
+                  "ans": "u = 20 - 5 × 2 = 20 - 10 = 10 m/s",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Match the columns",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "Match the following based on acceleration types and scenarios.",
+                  "ans": "",
+                  "subAns": [
+                    {
+                      "Column 1": "Column I",
+                      "Column 2": "Column II",
+                      "Column 3": "Column III"
+                    },
+                    {
+                      "Column 1": "Negative acceleration",
+                      "Column 2": "The velocity of the object decreases",
+                      "Column 3": "A vehicle moving with the velocity of 10 m/s stops after 5 seconds"
+                    }
+                  ],
+                  "youtubeVideoPath": null,
+                  "imgUrl": null
+                }
+              ]
+            },
+            {
+              "questionsTitle": "Give scientific reasons",
+              "questionsImage": null,
+              "subQuestion": [
+                {
+                  "question": "(1) The velocity of an object at rest is considered to be uniform.",
+                  "ans": "(1) The velocity of an object at rest is always zero.\n(2) Thus, it does not change with time. Hence, it is considered to be uniform.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                },
+                {
+                  "question": "(2) When an object falls freely to the ground, its acceleration is uniform.",
+                  "ans": "(1) When an object falls freely, the only force acting on the object is that due to the earth’s gravity.\n(2) Near the earth’s surface, this force on a given object is practically uniform. Hence, an object falling freely to the ground has almost a uniform acceleration.",
+                  "youtubeVideoPath": null,
+                  "imgUrl": null,
+                  "subAns": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
