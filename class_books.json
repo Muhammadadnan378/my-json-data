@@ -16,7 +16,18 @@
       "Mathematics_2_9th",
       "English_9th"
     ],
-    "10th": ["Marathi"]
+    "10th": [
+      "Std_10th_Algebra",
+      "Std_10th_English",
+      "Std_10th_Geography",
+      "Std_10th_Geometry",
+      "Std_10th_Hindi",
+      "Std_10th_History",
+      "Std_10th_Marathi",
+      "Std_10th_Sanskrit",
+      "Std_10th_Science1",
+      "Std_10th_Science2"
+    ]
   },
   "classBooksMapName": {
     "4th": [
@@ -26,7 +37,18 @@
     "5th": ["English","Environmental Studies"],
     "6th": ["History","Maths"],
     "7th": ["Science"],
-    "8th": ["Maths"],
+    "8th": [
+      "Algebra",
+      "English",
+      "Geography",
+      "Geometry",
+      "Hindi",
+      "History",
+      "Marathi",
+      "Sanskrit",
+      "Science1",
+      "Science2"
+    ],
     "9th": [
       "Geography",
       "History",
