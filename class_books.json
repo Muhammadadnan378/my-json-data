@@ -38,6 +38,17 @@
     "6th": ["History","Maths"],
     "7th": ["Science"],
     "8th": [
+      "Maths"
+    ],
+    "9th": [
+      "Geography",
+      "History",
+      "Science",
+      "Political Science",
+      "Mathematics-2",
+      "English"
+    ],
+    "10th": [
       "Algebra",
       "English",
       "Geography",
@@ -48,15 +59,6 @@
       "Sanskrit",
       "Science1",
       "Science2"
-    ],
-    "9th": [
-      "Geography",
-      "History",
-      "Science",
-      "Political Science",
-      "Mathematics-2",
-      "English"
-    ],
-    "10th": ["Marathi"]
+    ]
   }
 }
