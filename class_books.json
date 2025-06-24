@@ -9,12 +9,15 @@
     "7th": ["Science"],
     "8th": ["Maths"],
     "9th": [
-      "Geography_9th",
-      "History_9th",
-      "Science_9th",
-      "Political_science_9th",
-      "Mathematics_2_9th",
-      "English_9th"
+      "std9/main/Std_9th_Algebra",
+      "std9/main/Std_9th_English",
+      "std9/main/Std_9th_Geography",
+      "std9/main/Std_9th_Geometry",
+      "std9/main/Std_9th_Hindi",
+      "std9/main/Std_9th_Hist",
+      "std9/main/Std_9th_Marathi",
+      "std9/main/Std_9th_Sanskrit",
+      "std9/main/Std_9th_Science"
     ],
     "10th": [
       "std10/main/Std_10th_Algebra",
@@ -42,12 +45,15 @@
       "Maths"
     ],
     "9th": [
-      "Geography",
-      "History",
-      "Science",
-      "Political Science",
-      "Mathematics-2",
-      "English"
+      "Std_9th_Algebra",
+      "Std_9th_English",
+      "Std_9th_Geography",
+      "Std_9th_Geometry",
+      "Std_9th_Hindi",
+      "Std_9th_Hist",
+      "Std_9th_Marathi",
+      "Std_9th_Sanskrit",
+      "Std_9th_Science"
     ],
     "10th": [
       "Algebra",
