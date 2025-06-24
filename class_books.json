@@ -6,7 +6,15 @@
     ],
     "5th": ["English","Environmental_Studies_1"],
     "6th": ["History","maths_6th"],
-    "7th": ["Science"],
+    "7th": [
+      "std7/main/std_7th_english__complete_solutions",
+      "std7/main/std_7th_general_science_complete_solutions",
+      "std7/main/std_7th_geography_complete_solutions",
+      "std7/main/std_7th_hindi_complete_solutions",
+      "std7/main/std_7th_history_complete_solutions",
+      "std7/main/std_7th_marathi_complete_solutions",
+      "std7/main/std_7th_maths_complete_solutions"
+    ],
     "8th": [
       "std8/main/std_8th_english__complete_solutions",
       "std8/main/std_8th_general_science_complete_solutions",
@@ -48,7 +56,15 @@
     ],
     "5th": ["English","Environmental Studies"],
     "6th": ["History","Maths"],
-    "7th": ["Science"],
+    "7th": [
+      "English",
+      "Science",
+      "Geography",
+      "Hindi",
+      "History",
+      "Marathi",
+      "Maths"
+    ],
     "8th": [
       "English",
       "Science",
