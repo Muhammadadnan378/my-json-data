@@ -17,16 +17,16 @@
       "English_9th"
     ],
     "10th": [
-      "Std_10th_Algebra",
-      "Std_10th_English",
-      "Std_10th_Geography",
-      "Std_10th_Geometry",
+      "std10/main/Std_10th_Algebra",
+      "std10/main/Std_10th_English",
+      "std10/main/Std_10th_Geography",
+      "std10/main/Std_10th_Geometry",
       "std10/main/Std_10th_Hindi",
-      "Std_10th_History",
-      "Std_10th_Marathi",
-      "Std_10th_Sanskrit",
-      "Std_10th_Science1",
-      "Std_10th_Science2"
+      "std10/main/Std_10th_History",
+      "std10/main/Std_10th_Marathi",
+      "std10/main/Std_10th_Sanskrit",
+      "std10/main/Std_10th_Science1",
+      "std10/main/Std_10th_Science2"
     ]
   },
   "classBooksMapName": {
