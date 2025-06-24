@@ -4,7 +4,15 @@
       "Hindi",
       "Science_2"
     ],
-    "5th": ["English","Environmental_Studies_1"],
+    "5th": [
+      "std5/main/Std_5th_English",
+      "std5/main/std_5th_Environmental_Studies_1",
+      "std5/main/std_5th_Environmental_Studies_2",
+      "std5/main/std_5th_hindi",
+      "std5/main/std_5th_marathi",
+      "std5/main/std_5th_maths",
+      "std5/main/std_5th_play_do_learn"
+    ],
     "6th": ["History","maths_6th"],
     "7th": [
       "std7/main/std_7th_english_complete_solutions",
@@ -53,7 +61,15 @@
       "Hindi",
       "Science_2"
     ],
-    "5th": ["English","Environmental Studies"],
+    "5th": [
+      "English",
+      "Environmental Studies 1",
+      "Environmental Studies 2",
+      "Hindi",
+      "Marathi",
+      "Maths",
+      "Play Do Learn"
+    ],
     "6th": ["History","Maths"],
     "7th": [
       "English",
