@@ -13,7 +13,15 @@
       "std5/main/std_5th_maths",
       "std5/main/std_5th_play_do_learn"
     ],
-    "6th": ["History","maths_6th"],
+    "6th": [
+      "std6/main/std_6th_English",
+      "std6/main/std_6th_General_Science",
+      "std6/main/std_6th_Geography",
+      "std6/main/std_6th_Hindi",
+      "std6/main/std_6th_History",
+      "std6/main/std_6th_Marathi",
+      "std6/main/std_6th_Maths"
+    ],
     "7th": [
       "std7/main/std_7th_english_complete_solutions",
       "std7/main/std_7th_general_science_complete_solutions",
@@ -70,7 +78,15 @@
       "Maths",
       "Play Do Learn"
     ],
-    "6th": ["History","Maths"],
+    "6th": [
+      "English",
+      "General_Science",
+      "Geography",
+      "Hindi",
+      "History",
+      "Marathi",
+      "Maths"
+    ],
     "7th": [
       "English",
       "Science",
